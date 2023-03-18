@@ -1,0 +1,1721 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/superpwa-manifest.json">
+<link rel="prefetch" href="/superpwa-manifest.json">
+<meta name="theme-color" content="#eeee22">
+<!-- / SuperPWA.com -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="max-image-preview:large">
+<title>lucas rede &ndash; Lucas Vital empresa-Lucas rede</title>
+<link rel="dns-prefetch" href="//client.crisp.chat">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Feed para lucas rede &raquo;" href="http://lucasrede.rf.gd/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de coment&aacute;rios para lucas rede &raquo;" href="http://lucasrede.rf.gd/comments/feed/">
+<link rel="stylesheet" id="depay-donations-frontend-style-css" href="//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/css/frontend.css?ver=6.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wc-blocks-integration-css" href="//lucasrede.rf.gd/wp-content/plugins/woocommerce-payments/vendor/woocommerce/subscriptions-core/build/index.css?ver=5.3.1" type="text/css" media="all">
+<style id="wp-block-page-list-inline-css" type="text/css">
+.wp-block-navigation .wp-block-page-list{display:flex;flex-direction:var(--navigation-layout-direction,initial);justify-content:var(--navigation-layout-justify,initial);align-items:var(--navigation-layout-align,initial);flex-wrap:var(--navigation-layout-wrap,wrap);background-color:inherit}.wp-block-navigation .wp-block-navigation-item{background-color:inherit}
+</style>
+<style id="wp-block-navigation-inline-css" type="text/css">
+.wp-block-navigation{position:relative;--navigation-layout-justification-setting:flex-start;--navigation-layout-direction:row;--navigation-layout-wrap:wrap;--navigation-layout-justify:flex-start;--navigation-layout-align:center}.wp-block-navigation ul{margin-top:0;margin-bottom:0;margin-left:0;padding-left:0}.wp-block-navigation ul,.wp-block-navigation ul li{list-style:none;padding:0}.wp-block-navigation .wp-block-navigation-item{display:flex;align-items:center;position:relative}.wp-block-navigation .wp-block-navigation-item .wp-block-navigation__submenu-container:empty{display:none}.wp-block-navigation .wp-block-navigation-item__content{display:block}.wp-block-navigation.has-text-decoration-underline .wp-block-navigation-item__content,.wp-block-navigation.has-text-decoration-underline .wp-block-navigation-item__content:active,.wp-block-navigation.has-text-decoration-underline .wp-block-navigation-item__content:focus{text-decoration:underline}.wp-block-navigation.has-text-decoration-line-through .wp-block-navigation-item__content,.wp-block-navigation.has-text-decoration-line-through .wp-block-navigation-item__content:active,.wp-block-navigation.has-text-decoration-line-through .wp-block-navigation-item__content:focus{text-decoration:line-through}.wp-block-navigation:where(:not([class*=has-text-decoration])) a,.wp-block-navigation:where(:not([class*=has-text-decoration])) a:active,.wp-block-navigation:where(:not([class*=has-text-decoration])) a:focus{text-decoration:none}.wp-block-navigation .wp-block-navigation__submenu-icon{align-self:center;line-height:0;display:inline-block;font-size:inherit;padding:0;background-color:inherit;color:currentColor;border:none;width:.6em;height:.6em;margin-left:.25em}.wp-block-navigation .wp-block-navigation__submenu-icon svg{display:inline-block;stroke:currentColor;width:inherit;height:inherit;margin-top:.075em}.wp-block-navigation.is-vertical{--navigation-layout-direction:column;--navigation-layout-justify:initial;--navigation-layout-align:flex-start}.wp-block-navigation.no-wrap{--navigation-layout-wrap:nowrap}.wp-block-navigation.items-justified-center{--navigation-layout-justification-setting:center;--navigation-layout-justify:center}.wp-block-navigation.items-justified-center.is-vertical{--navigation-layout-align:center}.wp-block-navigation.items-justified-right{--navigation-layout-justification-setting:flex-end;--navigation-layout-justify:flex-end}.wp-block-navigation.items-justified-right.is-vertical{--navigation-layout-align:flex-end}.wp-block-navigation.items-justified-space-between{--navigation-layout-justification-setting:space-between;--navigation-layout-justify:space-between}.wp-block-navigation .has-child .wp-block-navigation__submenu-container{background-color:inherit;color:inherit;position:absolute;z-index:2;display:flex;flex-direction:column;align-items:normal;opacity:0;transition:opacity .1s linear;visibility:hidden;width:0;height:0;overflow:hidden;left:-1px;top:100%}.wp-block-navigation .has-child .wp-block-navigation__submenu-container>.wp-block-navigation-item>.wp-block-navigation-item__content{display:flex;flex-grow:1}.wp-block-navigation .has-child .wp-block-navigation__submenu-container>.wp-block-navigation-item>.wp-block-navigation-item__content .wp-block-navigation__submenu-icon{margin-right:0;margin-left:auto}.wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation-item__content{margin:0}@media (min-width:782px){.wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:100%;top:-1px}.wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container:before{content:"";position:absolute;right:100%;height:100%;display:block;width:.5em;background:transparent}.wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-icon{margin-right:.25em}.wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-icon svg{transform:rotate(-90deg)}}.wp-block-navigation .has-child:not(.open-on-click):hover>.wp-block-navigation__submenu-container{visibility:visible;overflow:visible;opacity:1;width:auto;height:auto;min-width:200px}.wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within>.wp-block-navigation__submenu-container{visibility:visible;overflow:visible;opacity:1;width:auto;height:auto;min-width:200px}.wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true]~.wp-block-navigation__submenu-container{visibility:visible;overflow:visible;opacity:1;width:auto;height:auto;min-width:200px}.wp-block-navigation.has-background .has-child .wp-block-navigation__submenu-container{left:0;top:100%}@media (min-width:782px){.wp-block-navigation.has-background .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:100%;top:0}}.wp-block-navigation-submenu{position:relative;display:flex}.wp-block-navigation-submenu .wp-block-navigation__submenu-icon svg{stroke:currentColor}button.wp-block-navigation-item__content{background-color:transparent;border:none;color:currentColor;font-size:inherit;font-family:inherit;line-height:inherit;font-style:inherit;font-weight:inherit;text-transform:inherit;text-align:left}.wp-block-navigation-submenu__toggle{cursor:pointer}.wp-block-navigation-item.open-on-click .wp-block-navigation-submenu__toggle{padding-right:.85em}.wp-block-navigation-item.open-on-click .wp-block-navigation-submenu__toggle+.wp-block-navigation__submenu-icon{margin-left:-.6em;pointer-events:none}.wp-block-navigation .wp-block-page-list,.wp-block-navigation__container,.wp-block-navigation__responsive-close,.wp-block-navigation__responsive-container,.wp-block-navigation__responsive-container-content,.wp-block-navigation__responsive-dialog{gap:inherit}:where(.wp-block-navigation.has-background .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation.has-background .wp-block-navigation-submenu a:not(.wp-element-button)),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-submenu a:not(.wp-element-button)){padding:.5em 1em}.wp-block-navigation.items-justified-right .wp-block-navigation__container .has-child .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right .wp-block-page-list>.has-child .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child .wp-block-navigation__submenu-container{left:auto;right:0}.wp-block-navigation.items-justified-right .wp-block-navigation__container .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right .wp-block-page-list>.has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:-1px;right:-1px}@media (min-width:782px){.wp-block-navigation.items-justified-right .wp-block-navigation__container .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right .wp-block-page-list>.has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:auto;right:100%}}.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container{background-color:#fff;color:#000;border:1px solid rgba(0,0,0,.15)}.wp-block-navigation__container{display:flex;flex-wrap:var(--navigation-layout-wrap,wrap);flex-direction:var(--navigation-layout-direction,initial);justify-content:var(--navigation-layout-justify,initial);align-items:var(--navigation-layout-align,initial);list-style:none;margin:0;padding-left:0}.wp-block-navigation__container .is-responsive{display:none}.wp-block-navigation__container:only-child,.wp-block-page-list:only-child{flex-grow:1}@keyframes overlay-menu__fade-in-animation{0%{opacity:0;transform:translateY(.5em)}to{opacity:1;transform:translateY(0)}}.wp-block-navigation__responsive-container{display:none;position:fixed;top:0;left:0;right:0;bottom:0}.wp-block-navigation__responsive-container .wp-block-navigation-link a{color:inherit}.wp-block-navigation__responsive-container .wp-block-navigation__responsive-container-content{display:flex;flex-wrap:var(--navigation-layout-wrap,wrap);flex-direction:var(--navigation-layout-direction,initial);justify-content:var(--navigation-layout-justify,initial);align-items:var(--navigation-layout-align,initial)}.wp-block-navigation__responsive-container:not(.is-menu-open.is-menu-open){color:inherit!important;background-color:inherit!important}.wp-block-navigation__responsive-container.is-menu-open{display:flex;flex-direction:column;background-color:inherit;animation:overlay-menu__fade-in-animation .1s ease-out;animation-fill-mode:forwards;padding:var(--wp--style--root--padding-top,2rem) var(--wp--style--root--padding-right,2rem) var(--wp--style--root--padding-bottom,2rem) var(--wp--style--root--padding-left,2rem);overflow:auto;z-index:100000}@media (prefers-reduced-motion:reduce){.wp-block-navigation__responsive-container.is-menu-open{animation-duration:1ms;animation-delay:0s}}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content{padding-top:calc(2rem + 24px);overflow:visible;display:flex;flex-direction:column;flex-wrap:nowrap;align-items:var(--navigation-layout-justification-setting,inherit)}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-page-list{justify-content:flex-start}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-icon{display:none}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .has-child .submenu-container,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .has-child .wp-block-navigation__submenu-container{opacity:1;visibility:visible;height:auto;width:auto;overflow:initial;min-width:200px;position:static;border:none;padding-left:2rem;padding-right:2rem}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-container{gap:inherit}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-container{padding-top:var(--wp--style--block-gap,2em)}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation-item__content{padding:0}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation-item,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-page-list{display:flex;flex-direction:column;align-items:var(--navigation-layout-justification-setting,initial)}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation-item,.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation-item .wp-block-navigation__submenu-container,.wp-block-navigation__responsive-container.is-menu-open .wp-block-page-list{color:inherit!important;background:transparent!important}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__submenu-container.wp-block-navigation__submenu-container.wp-block-navigation__submenu-container.wp-block-navigation__submenu-container{right:auto;left:auto}@media (min-width:600px){.wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open){display:block;width:100%;position:relative;z-index:auto;background-color:inherit}.wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) .wp-block-navigation__responsive-container-close{display:none}.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__submenu-container.wp-block-navigation__submenu-container.wp-block-navigation__submenu-container.wp-block-navigation__submenu-container{left:0}}.wp-block-navigation:not(.has-background) .wp-block-navigation__responsive-container.is-menu-open{background-color:#fff;color:#000}.wp-block-navigation__toggle_button_label{font-size:1rem;font-weight:700}.wp-block-navigation__responsive-container-close,.wp-block-navigation__responsive-container-open{vertical-align:middle;cursor:pointer;color:currentColor;background:transparent;border:none;margin:0;padding:0;text-transform:inherit}.wp-block-navigation__responsive-container-close svg,.wp-block-navigation__responsive-container-open svg{fill:currentColor;pointer-events:none;display:block;width:24px;height:24px}.wp-block-navigation__responsive-container-open{display:flex}@media (min-width:600px){.wp-block-navigation__responsive-container-open:not(.always-shown){display:none}}.wp-block-navigation__responsive-container-close{position:absolute;top:0;right:0;z-index:2}.wp-block-navigation__responsive-close{width:100%;max-width:var(--wp--style--global--wide-size,100%);margin-left:auto;margin-right:auto}.wp-block-navigation__responsive-close:focus{outline:none}.is-menu-open .wp-block-navigation__responsive-close,.is-menu-open .wp-block-navigation__responsive-container-content,.is-menu-open .wp-block-navigation__responsive-dialog{box-sizing:border-box}.wp-block-navigation__responsive-dialog{position:relative}.has-modal-open .admin-bar .is-menu-open .wp-block-navigation__responsive-dialog{margin-top:46px}@media (min-width:782px){.has-modal-open .admin-bar .is-menu-open .wp-block-navigation__responsive-dialog{margin-top:32px}}html.has-modal-open{overflow:hidden}
+.wp-block-navigation{font-size: var(--wp--preset--font-size--small);}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;text-decoration: none;}
+.wp-block-navigation a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+.wp-block-navigation a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}
+.wp-block-navigation a:where(:not(.wp-element-button)):active{text-decoration: none;}
+</style>
+<style id="wp-block-search-inline-css" type="text/css">
+.wp-block-search__button{margin-left:.625em;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{min-width:1.5em;min-height:1.5em;fill:currentColor;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:.375em .625em}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search__input{padding:8px;flex-grow:1;margin-left:0;margin-right:0;min-width:3em;border:1px solid #949494;text-decoration:unset!important}.wp-block-search.wp-block-search__button-only .wp-block-search__button{margin-left:0}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){padding:4px;border:1px solid #949494}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border-radius:0;border:none;padding:0 0 0 .25em}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:.125em .5em}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="//lucasrede.rf.gd/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #ffffff;--wp--preset--color--contrast: #000000;--wp--preset--color--primary: #9DFF20;--wp--preset--color--secondary: #345C00;--wp--preset--color--tertiary: #F6F6F6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: clamp(0.875rem, 0.875rem + ((1vw - 0.48rem) * 0.24), 1rem);--wp--preset--font-size--medium: clamp(1rem, 1rem + ((1vw - 0.48rem) * 0.24), 1.125rem);--wp--preset--font-size--large: clamp(1.75rem, 1.75rem + ((1vw - 0.48rem) * 0.24), 1.875rem);--wp--preset--font-size--x-large: 2.25rem;--wp--preset--font-size--xx-large: clamp(4rem, 4rem + ((1vw - 0.48rem) * 11.538), 10rem);--wp--preset--font-family--dm-sans: "DM Sans", sans-serif;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--system-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;--wp--preset--font-family--source-serif-pro: "Source Serif Pro", serif;--wp--preset--spacing--30: clamp(1.5rem, 5vw, 2rem);--wp--preset--spacing--40: clamp(1.8rem, 1.8rem + ((1vw - 0.48rem) * 2.885), 3rem);--wp--preset--spacing--50: clamp(2.5rem, 8vw, 4.5rem);--wp--preset--spacing--60: clamp(3.75rem, 10vw, 7rem);--wp--preset--spacing--70: clamp(5rem, 5.25rem + ((1vw - 0.48rem) * 9.096), 8rem);--wp--preset--spacing--80: clamp(7rem, 14vw, 11rem);}body { margin: 0;--wp--style--global--content-size: 650px;--wp--style--global--wide-size: 1200px; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding) { padding-right: 0; padding-left: 0; }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(.has-global-padding) > .alignfull { margin-right: 0; margin-left: 0; }.has-global-padding > .alignfull:where(:not(.has-global-padding)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding) > .alignfull:where(:not(.has-global-padding)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: 0; padding-left: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: 1.5rem; }body { --wp--style--block-gap: 1.5rem; }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: 1.5rem;margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: 1.5rem;margin-block-end: 0;}body .is-layout-flex{gap: 1.5rem;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);line-height: 1.6;--wp--style--root--padding-top: var(--wp--preset--spacing--40);--wp--style--root--padding-right: var(--wp--preset--spacing--30);--wp--style--root--padding-bottom: var(--wp--preset--spacing--40);--wp--style--root--padding-left: var(--wp--preset--spacing--30);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--contrast);text-decoration: underline;}a:where(:not(.wp-element-button)):hover{text-decoration: none;}a:where(:not(.wp-element-button)):focus{text-decoration: underline dashed;}a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}h1, h2, h3, h4, h5, h6{font-weight: 400;line-height: 1.4;}h1{font-size: clamp(2.719rem, 2.719rem + ((1vw - 0.48rem) * 1.742), 3.625rem);line-height: 1.2;}h2{font-size: clamp(2.625rem, calc(2.625rem + ((1vw - 0.48rem) * 8.4135)), 3.25rem);line-height: 1.2;}h3{font-size: var(--wp--preset--font-size--x-large);}h4{font-size: var(--wp--preset--font-size--large);}h5{font-size: var(--wp--preset--font-size--medium);font-weight: 700;text-transform: uppercase;}h6{font-size: var(--wp--preset--font-size--medium);text-transform: uppercase;}.wp-element-button, .wp-block-button__link{background-color: var(--wp--preset--color--primary);border-radius: 0;border-width: 0;color: var(--wp--preset--color--contrast);font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.wp-element-button:visited, .wp-block-button__link:visited{color: var(--wp--preset--color--contrast);}.wp-element-button:hover, .wp-block-button__link:hover{background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}.wp-element-button:focus, .wp-block-button__link:focus{background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}.wp-element-button:active, .wp-block-button__link:active{background-color: var(--wp--preset--color--secondary);color: var(--wp--preset--color--base);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-tertiary-color{color: var(--wp--preset--color--tertiary) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-background-color{background-color: var(--wp--preset--color--tertiary) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-border-color{border-color: var(--wp--preset--color--tertiary) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-system-font-font-family{font-family: var(--wp--preset--font-family--system-font) !important;}.has-source-serif-pro-font-family{font-family: var(--wp--preset--font-family--source-serif-pro) !important;}
+</style>
+<style id="core-block-supports-inline-css" type="text/css">
+.wp-block-navigation.wp-container-2{justify-content:flex-end;}
+</style>
+<link rel="stylesheet" id="af-fontawesome-css" href="//lucasrede.rf.gd/wp-content/plugins/asgaros-forum/libs/fontawesome/css/all.min.css?ver=2.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="af-fontawesome-compat-v4-css" href="//lucasrede.rf.gd/wp-content/plugins/asgaros-forum/libs/fontawesome/css/v4-shims.min.css?ver=2.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="af-widgets-css" href="//lucasrede.rf.gd/wp-content/plugins/asgaros-forum/skin/widgets.css?ver=2.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="erp-subscription-form-css" href="//lucasrede.rf.gd/wp-content/plugins/erp/modules/crm/assets/css/erp-subscription-form.css?ver=1.12.1" type="text/css" media="all">
+<link rel="stylesheet" id="profilegrid-user-profiles-groups-and-communities-css" href="//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/css/profile-magic-public.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="pm-font-awesome-css" href="//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/css/font-awesome.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="pg-password-checker-css" href="//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/css/pg-password-checker.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="pg-profile-menu-css" href="//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/css/pg-profile-menu.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="pg-responsive-css" href="//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/css/pg-responsive-public.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="//lucasrede.rf.gd/wp-includes/css/dashicons.min.css?ver=6.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="sportspress-general-css" href="//lucasrede.rf.gd/wp-content/plugins/sportspress/assets/css/sportspress.css?ver=2.7.16" type="text/css" media="all">
+<link rel="stylesheet" id="sportspress-icons-css" href="//lucasrede.rf.gd/wp-content/plugins/sportspress/assets/css/icons.css?ver=2.7" type="text/css" media="all">
+<link rel="stylesheet" id="sportspress-roboto-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C500&amp;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext%2Cvietnamese&amp;ver=2.7" type="text/css" media="all">
+<link rel="stylesheet" id="sportspress-style-css" href="//lucasrede.rf.gd/wp-content/plugins/sportspress/assets/css/sportspress-style.css?ver=2.7" type="text/css" media="all">
+<link rel="stylesheet" id="sportspress-style-ltr-css" href="//lucasrede.rf.gd/wp-content/plugins/sportspress/assets/css/sportspress-style-ltr.css?ver=2.7" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.5.0" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-blocktheme-css" href="//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/css/woocommerce-blocktheme.css?ver=7.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-general-css" href="//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/css/twenty-twenty-three.css?ver=7.5.0" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="select2-css" href="//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-radio-css" href="//lucasrede.rf.gd/wp-content/plugins/wp-radio/assets/css/frontend.css?ver=3.1.9" type="text/css" media="all">
+<link rel="stylesheet" id="wp-smart-tv-css" href="//lucasrede.rf.gd/wp-content/plugins/wp-smart-tv/public/css/wp-smart-tv-public.css?ver=2.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="xoo-el-style-css" href="//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-style.css?ver=2.1" type="text/css" media="all">
+<style id="xoo-el-style-inline-css" type="text/css">
+
+	.xoo-el-form-container button.btn.button.xoo-el-action-btn{
+		background-color: #000000;
+		color: #ffffff;
+		font-weight: 600;
+		font-size: 15px;
+		height: 40px;
+	}
+
+.xoo-el-inmodal{
+	max-width: 800px;
+	max-height: 600px;
+}
+.xoo-el-sidebar{
+	background-image: url(//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/assets/images/popup-sidebar.jpg);
+	min-width: 40%;
+}
+.xoo-el-main, .xoo-el-main a , .xoo-el-main label{
+	color: #000000;
+}
+.xoo-el-srcont{
+	background-color: #ffffff;
+}
+.xoo-el-form-container ul.xoo-el-tabs li.xoo-el-active {
+	background-color: #000000;
+	color: #ffffff;
+}
+.xoo-el-form-container ul.xoo-el-tabs li{
+	background-color: #eeeeee;
+	color: #000000;
+}
+.xoo-el-main{
+	padding: 40px 30px;
+}
+
+.xoo-el-form-container button.xoo-el-action-btn:not(.button){
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+
+	.xoo-el-modal:before {
+	    content: '';
+	    display: inline-block;
+	    height: 100%;
+	    vertical-align: middle;
+	    margin-right: -0.25em;
+	}
+
+
+
+
+</style>
+<link rel="stylesheet" id="xoo-el-fonts-css" href="//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-fonts.css?ver=2.1" type="text/css" media="all">
+<link rel="stylesheet" id="xoo-aff-style-css" href="//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/css/xoo-aff-style.css?ver=1.1" type="text/css" media="all">
+<style id="xoo-aff-style-inline-css" type="text/css">
+
+.xoo-aff-input-group .xoo-aff-input-icon{
+	background-color:  #eee;
+	color:  #555;
+	max-width: 40px;
+	min-width: 40px;
+	border: 1px solid  #ccc;
+	border-right: 0;
+	font-size: 14px;
+}
+.xoo-aff-group{
+	margin-bottom: 30px;
+}
+
+.xoo-aff-group input[type="text"], .xoo-aff-group input[type="password"], .xoo-aff-group input[type="email"], .xoo-aff-group input[type="number"], .xoo-aff-group select, .xoo-aff-group select + .select2{
+	background-color: #fff;
+	color: #777;
+}
+
+.xoo-aff-group input[type="text"]::placeholder, .xoo-aff-group input[type="password"]::placeholder, .xoo-aff-group input[type="email"]::placeholder, .xoo-aff-group input[type="number"]::placeholder, .xoo-aff-group select::placeholder{
+	color: #777;
+	opacity: 0.7;
+}
+
+.xoo-aff-group input[type="text"]:focus, .xoo-aff-group input[type="password"]:focus, .xoo-aff-group input[type="email"]:focus, .xoo-aff-group input[type="number"]:focus, .xoo-aff-group select:focus, .xoo-aff-group select + .select2:focus{
+	background-color: #ededed;
+	color: #000;
+}
+
+
+
+	.xoo-aff-group input[type="text"], .xoo-aff-group input[type="password"], .xoo-aff-group input[type="email"], .xoo-aff-group input[type="number"], .xoo-aff-group select{
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
+	}
+
+
+</style>
+<link rel="stylesheet" id="xoo-aff-font-awesome5-css" href="//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/css/all.min.css?ver=6.1.1" type="text/css" media="all">
+<style id="wp-webfonts-inline-css" type="text/css">
+@font-face{font-family:"DM Sans";font-style:normal;font-weight:400;font-display:fallback;src:local("DM Sans"), url('/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:italic;font-weight:400;font-display:fallback;src:local("DM Sans"), url('/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:normal;font-weight:700;font-display:fallback;src:local("DM Sans"), url('/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:italic;font-weight:700;font-display:fallback;src:local("DM Sans"), url('/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:300;font-display:block;src:local("IBM Plex Mono"), url('/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:block;src:local("IBM Plex Mono"), url('/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:italic;font-weight:400;font-display:block;src:local("IBM Plex Mono"), url('/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:700;font-display:block;src:local("IBM Plex Mono"), url('/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:Inter;font-style:normal;font-weight:200 900;font-display:fallback;src:local(Inter), url('/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf') format('truetype');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:normal;font-weight:200 900;font-display:fallback;src:local("Source Serif Pro"), url('/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:italic;font-weight:200 900;font-display:fallback;src:local("Source Serif Pro"), url('/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2') format('woff2');font-stretch:normal;}
+</style>
+<link rel="stylesheet" id="advanced-google-recaptcha-style-css" href="//lucasrede.rf.gd/wp-content/plugins/advanced-google-recaptcha/assets/css/captcha.min.css?ver=1.0.14" type="text/css" media="all">
+<style type="text/css"></style><script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/widgets.bundle.js?ver=//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/widgets.bundle.js' id='depay-donations-widgets-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1' id='react-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1' id='react-dom-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6' id='wp-escape-html-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b' id='wp-element-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/react-shadow-dom.js?ver=//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/react-shadow-dom.js' id='depay-donations-react-shadow-dom-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/blockchains.js?ver=//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/blockchains.js' id='depay-donations-blockchains-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/buttons.js?ver=//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/buttons.js' id='depay-donations-buttons-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/blocks/navigation/view.min.js?ver=c24330f635f5cb9d5e0e' id='wp-block-navigation-view-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/blocks/navigation/view-modal.min.js?ver=45f05135277abf0b0408' id='wp-block-navigation-view-2-js'></script>
+<script type='text/javascript' id='breeze-prefetch-js-extra'>
+/* <![CDATA[ */
+var breeze_prefetch = {"local_url":"http:\/\/lucasrede.rf.gd","ignore_remote_prefetch":"1","ignore_list":["\/cart\/","\/checkout\/","\/my-account\/","\/wp-admin\/"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.0.17' id='breeze-prefetch-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/js/pg-profile-menu.js?ver=5.3.2' id='pg-profile-menu.js-js'></script>
+<script type='text/javascript' id='profilegrid-user-profiles-groups-and-communities-js-extra'>
+/* <![CDATA[ */
+var pm_ajax_object = {"ajax_url":"http:\/\/lucasrede.rf.gd\/wp-admin\/admin-ajax.php","plugin_emoji_url":"http:\/\/lucasrede.rf.gd\/wp-content\/plugins\/profilegrid-user-profiles-groups-and-communities\/public\/partials\/images\/img","nonce":"0ad5e2cb8e"};
+var pm_error_object = {"valid_email":"Insira um endere\u00e7o de e-mail v\u00e1lido.","valid_number":"Insira um n\u00famero v\u00e1lido.","valid_date":"Insira uma data v\u00e1lida (formato aaaa-mm-dd).","required_field":"Este \u00e9 um campo obrigat\u00f3rio.","required_comman_field":"Preencha todos os campos obrigat\u00f3rios.","file_type":"Este tipo de arquivo n\u00e3o \u00e9 permitido.","short_password":"Sua senha deve ter pelo menos 7 caracteres.","pass_not_match":"A senha e a confirma\u00e7\u00e3o de senha n\u00e3o conferem.","user_exist":"Este nome de usu\u00e1rio j\u00e1 existe.","email_exist":"Este e-mail j\u00e1 existe.","show_more":"Mais...","show_less":"Mostrar menos","user_not_exit":"O nome de usu\u00e1rio n\u00e3o existe.","password_change_successfully":"Senha alterada com sucesso","allow_file_ext":"jpg|jpeg|png|gif","valid_phone_number":"Insira um n\u00famero de telefone v\u00e1lido.","valid_mobile_number":"Coloque um n\u00famero de celular v\u00e1lido.","valid_facebook_url":"Insira um URL v\u00e1lido no Facebook.","valid_twitter_url":"Insira um URL do Twitter.","valid_google_url":"Insira um URL v\u00e1lido no Google+.","valid_linked_in_url":"Insira um URL do LinkedIn.","valid_youtube_url":"Insira um URL v\u00e1lido no Youtube.","valid_mixcloud_url":"Please enter a valid Mixcloud url.","valid_soundcloud_url":"Please enter a valid SoundCloud url.","valid_instagram_url":"Insira um URL v\u00e1lido no Instagram.","crop_alert_error":"Selecione uma regi\u00e3o de recorte e pressione enviar.","admin_note_error":"N\u00e3o \u00e9 poss\u00edvel adicionar uma nota vazia. Escreva algo e tente novamente.","empty_message_error":"N\u00e3o \u00e9 poss\u00edvel enviar uma mensagem vazia. Digite algo.","invite_limit_error":"Apenas dez usu\u00e1rios podem ser convidados por vez.","no_more_result":"Nenhum outro resultado foi encontrado","delete_friend_request":"Isso excluir\u00e1 a solicita\u00e7\u00e3o de amizade do(s) usu\u00e1rio(s) selecionado(s). Voc\u00ea deseja continuar?","remove_friend":"Isso remover\u00e1 o(s) usu\u00e1rio(s) selecionado(s) da sua lista de amigos. Voc\u00ea deseja continuar?","accept_friend_request_conf":"Isso aceitar\u00e1 a solicita\u00e7\u00e3o do(s) usu\u00e1rio(s) selecionado(s). Voc\u00ea deseja continuar?","cancel_friend_request":"Isso cancelar\u00e1 a solicita\u00e7\u00e3o do(s) usu\u00e1rio(s) selecionado(s). Voc\u00ea deseja continuar?","next":"Pr\u00f3ximo","back":"Voltar","submit":"Enviar","empty_chat_message":"Desculpe, n\u00e3o posso enviar uma mensagem vazia. Escreva algo e tente envi\u00e1-la novamente.","login_url":"http:\/\/lucasrede.rf.gd\/login\/?password=changed"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/js/profile-magic-public.js?ver=5.3.2' id='profilegrid-user-profiles-groups-and-communities-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/js/modernizr-custom.min.js?ver=5.3.2' id='modernizr-custom.min.js-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/wp-smart-tv/public/js/wp-smart-tv-public.js?ver=2.1.8' id='wp-smart-tv-js'></script>
+<script type='text/javascript' id='advanced-google-recaptcha-custom-js-extra'>
+/* <![CDATA[ */
+var agrRecaptcha = {"site_key":"6LeJmQglAAAAACmNJls1PV4pG-Qhh_tsk17IXfLT"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/advanced-google-recaptcha/assets/js/captcha.min.js?ver=1.0.14' id='advanced-google-recaptcha-custom-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=agrV3&#038;render=6LeJmQglAAAAACmNJls1PV4pG-Qhh_tsk17IXfLT&#038;ver=1.0.14' id='advanced-google-recaptcha-api-js'></script>
+<script type='text/javascript' id='WCPAY_ASSETS-js-extra'>
+/* <![CDATA[ */
+var wcpayAssets = {"url":"http:\/\/lucasrede.rf.gd\/wp-content\/plugins\/woocommerce-payments\/dist\/"};
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="http://lucasrede.rf.gd/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lucasrede.rf.gd/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//lucasrede.rf.gd/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.1.1">
+<meta name="generator" content="SportsPress 2.7.16">
+<meta name="generator" content="WooCommerce 7.5.0">
+<meta name="generator" content="Site Kit by Google 1.96.0"><script src="//lucasrede.rf.gd/wp-content/plugins/send-anywhere-file-transfer/platform.js" async defer></script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="//lucasrede.rf.gd/wp-content/uploads/2023/03/cropped-cafa62c0e81e167a89e57e63da31e0cb1-32x32.jpeg" sizes="32x32">
+<link rel="icon" href="//lucasrede.rf.gd/wp-content/uploads/2023/03/cropped-cafa62c0e81e167a89e57e63da31e0cb1-192x192.jpeg" sizes="192x192">
+<link rel="apple-touch-icon" href="//lucasrede.rf.gd/wp-content/uploads/2023/03/cropped-cafa62c0e81e167a89e57e63da31e0cb1-180x180.jpeg">
+<meta name="msapplication-TileImage" content="//lucasrede.rf.gd/wp-content/uploads/2023/03/cropped-cafa62c0e81e167a89e57e63da31e0cb1-270x270.jpeg">
+</head>
+
+<body class="home blog wp-embed-responsive theme-twentytwentythree woocommerce-demo-store woocommerce-block-theme-has-button-styles woocommerce-no-js bm-messages-light">
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.498039215686"></fefuncr><fefuncg type="table" tablevalues="0 0.498039215686"></fefuncg><fefuncb type="table" tablevalues="0 0.498039215686"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.549019607843 0.988235294118"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.717647058824 0.254901960784"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.278431372549"></fefuncg><fefuncb type="table" tablevalues="0.592156862745 0.278431372549"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.647058823529"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.780392156863 1"></fefuncr><fefuncg type="table" tablevalues="0 0.949019607843"></fefuncg><fefuncb type="table" tablevalues="0.352941176471 0.470588235294"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.650980392157 0.403921568627"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.447058823529 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.0980392156863 1"></fefuncr><fefuncg type="table" tablevalues="0 0.662745098039"></fefuncg><fefuncb type="table" tablevalues="0.847058823529 0.419607843137"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
+<div class="wp-site-blocks"><nav class="is-content-justification-right is-layout-flex wp-container-2 is-responsive items-justified-right wp-block-navigation" aria-label=""><button aria-haspopup="true" aria-label="Abrir menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-1"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5"></rect><rect x="4" y="15" width="16" height="1.5"></rect></svg></button>
+			<div class="wp-block-navigation__responsive-container  " style="" id="modal-1">
+				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
+					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
+							<button aria-label="Fechar menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+						<div class="wp-block-navigation__responsive-container-content" id="modal-1-content">
+							<ul class="wp-block-page-list"><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/amazon/">amazon</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/calendar/">calendar</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/cart/">Cart</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/checkout/">Checkout</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/erp-subscription/">ERP Subscription</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/forgot-password/">Esqueceu sua senha</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/forum/">F&oacute;rum</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/default-user-group/">Grupo de usu&aacute;rios padr&atilde;o</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/login/">Login</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/lucas-app/">lucas app</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/maps/">lucas mapas</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/lucas-news/">lucas news</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/lucas-pesquisa-web/">lucas pesquisa web</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/my-account/">Minha conta</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/my-profile/">My Profile</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/pagina-inicial/">P&aacute;gina inicial</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/live-radio/">R&aacute;dio ao vivo</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/registration/">Registration</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/sample-page/">Sample Page</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/search-users/">Search Users</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/shop/">Shop</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/submit-new-blog-post/">Submit New Blog Post</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/all-groups/">Todos os Grupos</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/user-blogs/">User Blogs</a></li><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="http://lucasrede.rf.gd/vieo/">v&iacute;&eacute;o!</a></li></ul>
+						</div>
+					</div>
+				</div>
+			</div></nav>
+
+<form role="search" method="get" action="http://lucasrede.rf.gd/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-3" class="wp-block-search__label">Search</label><div class="wp-block-search__inside-wrapper "><input type="search" id="wp-block-search__input-3" class="wp-block-search__input wp-block-search__input" name="s" value="" placeholder="" required><button type="submit" class="wp-block-search__button wp-element-button">Search</button></div></form></div>
+
+		<style id="skip-link-styles">
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+	</style>
+		<script>
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		// Get the site wrapper.
+		// The skip-link will be injected in the beginning of it.
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Pular para o conte&uacute;do';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	</script>
+	<div class="gtranslate_wrapper" id="gt-wrapper-62210754"></div><p class="woocommerce-store-notice demo_store" data-notice-id="d971a1b213b518afe4cacd170376e7d4" style="display:none;">Lucas Vital empresa-Lucas rede <a href="#" class="woocommerce-store-notice__dismiss-link">Dispensar</a></p><div class="wp-radio-player align-center full-width init-hidden ">
+
+    <!--******* Details ********-->
+    <div class="wp-radio-player-details">
+        <a href="" class="station-thumbnail-wrap">
+            <img alt="WP Radio" data-breeze="//lucasrede.rf.gd/wp-content/plugins/wp-radio/assets/images/placeholder.jpg" src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="station-thumbnail br-lazy">
+        </a>
+
+        <div class="station-meta">
+            <a href="" class="station-title">WP Radio</a>
+
+            <!-- Player Status -->
+            <div class="station-status">
+                <div class="wp-radio-player-status status-">
+                    <span class="status-text-offline">OFFLINE</span>
+                    <span class="status-text-live">LIVE</span>
+
+                    <span class="status-dot"></span>
+                </div>
+
+                <!--Song Title-->
+                <div class="wp-radio-player-song-title" data-id=""></div>
+            </div>
+        </div>
+    </div>
+
+    <!--******* Player Controls *******-->
+    <div class="wp-radio-player-controls">
+
+		
+        <!-- Previous -->
+		            <button type="button" class="play-prev" aria-label="Play Previous" title="Play Previous">
+                <span class="dashicons dashicons-controls-skipback"></span>
+            </button>
+		
+        <!-- Play/ Pause -->
+        <button type="button" aria-label="Play/Pause" title="Play/Pause" class="play-btn" data-id="">
+
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+
+            <span class="dashicons dashicons-controls-play"></span>
+            <span class="dashicons dashicons-controls-pause"></span>
+        </button>
+
+        <!-- Next -->
+		            <button type="button" class="play-next" aria-label="Play Next" title="Play Next">
+                <span class="dashicons dashicons-controls-skipforward"></span>
+            </button>
+		
+        <!-- Popup Icon -->
+		
+        <!-- Volume Control -->
+        <div class="player-volume-wrap">
+            <div class="volume-slider">
+                <div class="volume-slider-bar">
+                    <div class="volume-slider-handle"></div>
+                </div>
+                <input type="range" min="0" max="100" value="100" step="1">
+            </div>
+            <button type="button" class="player-volume">
+                <i class="dashicons dashicons-controls-volumeon"></i>
+            </button>
+        </div>
+
+		
+    </div>
+
+    <!-- Player toggle -->
+	        <div class="wp-radio-player-toggle">
+            <i class="dashicons dashicons-arrow-down-alt2" aria-label="Collapse player" title="Collapse player"></i>
+            <i class="dashicons dashicons-controls-play" aria-label="Expand player" title="Expand player"></i>
+        </div>
+	
+
+	        <audio id="wp-radio-media" src="" preload="none"></audio>
+	
+</div>
+<div class="xoo-el-container" style="visibility: hidden;">
+    <div class="xoo-el-opac"></div>
+    <div class="xoo-el-modal">
+        <div class="xoo-el-inmodal">
+            <span class="xoo-el-close xoo-el-icon-cancel-circle"></span>
+            <div class="xoo-el-wrap">
+                <div class="xoo-el-sidebar"></div>
+                <div class="xoo-el-srcont">
+                    <div class="xoo-el-main">
+                        
+<div class="xoo-el-form-container xoo-el-form-popup" data-active="login">
+
+	
+	
+	
+<div class="xoo-el-header">
+	<ul class="xoo-el-tabs">
+
+		<li data-tab="login" class="xoo-el-login-tgr">Login</li>
+
+		 
+			<li data-tab="register" class="xoo-el-reg-tgr">Sign Up</li>
+		
+	</ul>
+</div>
+	
+	
+			
+		<div data-section="login" class="xoo-el-section">
+
+			<div class="xoo-el-fields">
+
+				<div class="xoo-el-notice"></div>
+				<form class="xoo-el-action-form xoo-el-form-login">
+
+					
+					<div class="xoo-aff-group xoo-el-username_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon far fa-user"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="xoo-el-username" placeholder="Username / Email" value="" autocomplete="email" required="	"></div></div><div class="xoo-aff-group xoo-el-password_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="password" class="xoo-aff-required xoo-aff-password" name="xoo-el-password" placeholder="Password" value="" required="	"></div></div>
+<div class="xoo-aff-group xoo-el-login-btm-fields">
+	<label class="xoo-el-form-label">
+		<input type="checkbox" name="xoo-el-rememberme" value="forever">
+		<span>Remember me</span>
+	</label>
+	<a class="xoo-el-lostpw-tgr">Forgot Password?</a>
+</div>
+
+
+<input type="hidden" name="_xoo_el_form" value="login">
+
+<button type="submit" class="button btn xoo-el-action-btn xoo-el-login-btn">Sign In</button>
+
+<input type="hidden" name="xoo_el_redirect" value="/">
+					
+				</form>
+
+				
+			</div>
+
+		</div>
+
+	
+			
+		<div data-section="register" class="xoo-el-section">
+
+			<div class="xoo-el-fields">
+
+				<div class="xoo-el-notice"></div>
+				<form class="xoo-el-action-form xoo-el-form-register">
+
+					
+					
+<div class="xoo-aff-fields"><div class="xoo-aff-group xoo-aff-cont-email one xoo-aff-cont-required xoo_el_reg_email_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-at"></span><input type="email" class="xoo-aff-required xoo-aff-email" name="xoo_el_reg_email" placeholder="Email" value="" autocomplete="email" required="	"></div></div><div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_fname_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon far fa-user"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="xoo_el_reg_fname" placeholder="First Name" value="" required="	"></div></div><div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_lname_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon far fa-user"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="xoo_el_reg_lname" placeholder="Last Name" value="" required="	"></div></div><div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="password" class="xoo-aff-required xoo-aff-password" name="xoo_el_reg_pass" placeholder="Password" value="" maxlength="20" minlength="6" autocomplete="new-password" required="	"></div></div><div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_again_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="password" class="xoo-aff-required xoo-aff-password" name="xoo_el_reg_pass_again" placeholder="Confirm Password" value="" autocomplete="new-password" required="	"></div></div><div class="xoo-aff-group xoo-aff-cont-checkbox_single one xoo-aff-cont-required xoo_el_reg_terms_cont"><div class="xoo-aff-required xoo-aff-checkbox_single"><label><input type="checkbox" name="xoo_el_reg_terms" class="xoo-aff-required xoo-aff-checkbox_single" value="yes">I accept the <a href="privacy-policy" target="_blank"> Terms of Service and Privacy Policy </a></label></div></div></div>
+<input type="hidden" name="_xoo_el_form" value="register">
+
+
+<button type="submit" class="button btn xoo-el-action-btn xoo-el-register-btn">Sign Up</button>
+
+<input type="hidden" name="xoo_el_redirect" value="/">
+					
+				</form>
+
+				
+			</div>
+
+		</div>
+
+	
+			
+		<div data-section="lostpw" class="xoo-el-section">
+
+			<div class="xoo-el-fields">
+
+				<div class="xoo-el-notice"></div>
+				<form class="xoo-el-action-form xoo-el-form-lostpw">
+
+					
+					
+
+<span class="xoo-el-form-txt">Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.</span>
+
+<div class="xoo-aff-group user_login_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="user_login" placeholder="Username / Email" value="" required="	"></div></div>
+
+<input type="hidden" name="_xoo_el_form" value="lostPassword">
+
+<input type="hidden" name="_wp_http_referer" value="/">
+<button type="submit" class="button btn xoo-el-action-btn xoo-el-lostpw-btn">Email Reset Link</button>
+					
+				</form>
+
+				
+			</div>
+
+		</div>
+
+	
+	
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><style>#mwai-chat-6415f403aa408 {
+  --mwai-spacing: 15px;
+  --mwai-fontSize: 15px;
+  --mwai-borderRadius: 10px;
+  --mwai-fontColor: #FFFFFF;
+  --mwai-backgroundPrimaryColor: #454654;
+  --mwai-backgroundSecondaryColor: #343541;
+  --mwai-aiAvatarBackgroundColor: #10a37f;
+  --mwai-userAvatarBackgroundColor: #135ea4;
+  --mwai-headerButtonsColor: #FFFFFF;
+  --mwai-width: 460px;
+  --mwai-maxHeight: 40vh;
+}
+
+#mwai-chat-6415f403aa408 .mwai-open-button {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  transition: all 0.2s ease-out;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+#mwai-chat-6415f403aa408 .mwai-open-button .mwai-icon-text {
+  background: var(--mwai-backgroundPrimaryColor);
+  color: var(--mwai-headerButtonsColor);
+  max-width: 200px;
+  font-size: 13px;
+  margin-bottom: 15px;
+  padding: 5px 10px;
+  border-radius: 8px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-open-button:hover {
+  cursor: pointer;
+  filter: saturate(2.5) hue-rotate(5deg);
+}
+
+#mwai-chat-6415f403aa408 .mwai-content {
+  background: var(--mwai-backgroundSecondaryColor);
+  color: var(--mwai-fontColor);
+  font-size: var(--mwai-fontSize);
+  border-radius: var(--mwai-borderRadius);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+#mwai-chat-6415f403aa408 .mwai-conversation {
+  overflow: auto;
+}
+
+#mwai-chat-6415f403aa408 * {
+  box-sizing: border-box;
+}
+
+#mwai-chat-6415f403aa408 a {
+  color: #2196f3;
+}
+
+#mwai-chat-6415f403aa408 h1 {
+  font-size: 200%;
+}
+
+#mwai-chat-6415f403aa408 h2 {
+  font-size: 160%;
+}
+
+#mwai-chat-6415f403aa408 h3 {
+  font-size: 140%;
+}
+
+#mwai-chat-6415f403aa408 h4 {
+  font-size: 120%;
+}
+
+#mwai-chat-6415f403aa408 pre {
+  color: var(--mwai-fontColor);
+  border-radius: var(--mwai-borderRadius);
+  padding: calc(var(--mwai-spacing) * 2 / 3) var(--mwai-spacing);
+  break-after: auto;
+  font-size: 95%;
+  font-family: system-ui;
+  background: #343541;
+}
+
+#mwai-chat-6415f403aa408 pre code {
+  padding: 0 !important;
+  font-family: system-ui;
+  background: #343541;
+}
+
+#mwai-chat-6415f403aa408 ol {
+  padding: 0;
+  margin: 0 0 0 20px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply {
+  display: flex;
+  padding: var(--mwai-spacing);
+  position: relative;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button {
+  opacity: 0;
+  transition: all 0.3s ease-out;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  right: var(--mwai-spacing);
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button .mwai-copy-button-one {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  margin-top: 0px;
+  margin-left: 0px;
+  background: white;
+  opacity: 0.4;
+  transition: all 0.2s ease-in;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button .mwai-copy-button-two {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  margin-top: 6px;
+  margin-left: 6px;
+  background: white;
+  opacity: 0.6;
+  transition: all 0.2s ease-in;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button:hover .mwai-copy-button-one {
+  opacity: 0.6;
+  margin-top: 0px;
+  margin-left: 6px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button:hover .mwai-copy-button-two {
+  opacity: 1;
+  margin-top: 6px;
+  margin-left: 0px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button.mwai-animate .mwai-copy-button-one {
+  opacity: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply .mwai-copy-button.mwai-animate .mwai-copy-button-two {
+  width: 18px;
+  height: 18px;
+  margin-top: 2px;
+  margin-left: 2px;
+  opacity: 1;
+}
+
+#mwai-chat-6415f403aa408 .mwai-reply:hover .mwai-copy-button {
+  display: block;
+  opacity: 1;
+}
+
+#mwai-chat-6415f403aa408 .mwai-ai, #mwai-chat-6415f403aa408 .mwai-system {
+  background: var(--mwai-backgroundPrimaryColor);
+}
+
+#mwai-chat-6415f403aa408 .mwai-name {
+  color: var(--mwai-fontColor);
+  margin-right: 5px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-name .mwai-name-text {
+  opacity: 0.50;
+  white-space: nowrap;
+}
+
+#mwai-chat-6415f403aa408 .mwai-name .mwai-avatar {
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+  background: var(--mwai-aiAvatarBackgroundColor);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#mwai-chat-6415f403aa408 .mwai-name .mwai-avatar img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#mwai-chat-6415f403aa408 .mwai-name .mwai-avatar.mwai-svg img {
+  width: 28px;
+  height: 28px;
+  filter: brightness(0) invert(1);
+}
+
+#mwai-chat-6415f403aa408 .mwai-user .mwai-name .mwai-avatar {
+  background: var(--mwai-userAvatarBackgroundColor);
+}
+
+#mwai-chat-6415f403aa408 .mwai-text {
+  flex: auto;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text *:first-child {
+  margin-top: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text *:last-child {
+  margin-bottom: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text table {
+  width: 100%;
+  border: 2px solid var(--mwai-backgroundSecondaryColor);
+  border-collapse: collapse;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text thead {
+  background: var(--mwai-backgroundSecondaryColor);
+}
+
+#mwai-chat-6415f403aa408 .mwai-text tr, #mwai-chat-6415f403aa408 .mwai-text td {
+  padding: 2px 5px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text td {
+  border: 2px solid var(--mwai-backgroundSecondaryColor);
+}
+
+#mwai-chat-6415f403aa408 .mwai-text .mwai-typewriter {
+  display: inline-block;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text .mwai-typewriter &gt; :first-child {
+  margin-top: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text &gt; *:first-child {
+  margin-top: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-text &gt; *:last-child {
+  margin-bottom: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-system .mwai-name {
+  display: none;
+}
+
+#mwai-chat-6415f403aa408 .mwai-input {
+  display: flex;
+  padding: var(--mwai-spacing);
+  border-top: 1px solid var(--mwai-backgroundPrimaryColor);
+}
+
+#mwai-chat-6415f403aa408 .mwai-input textarea {
+  background: var(--mwai-backgroundPrimaryColor);
+  color: var(--mwai-fontColor);
+  flex: auto;
+  padding: calc(var(--mwai-spacing) / 2) var(--mwai-spacing);
+  border: none;
+  border-radius: 5px;
+  font-size: var(--mwai-fontSize);
+  resize: none;
+  font-family: inherit;
+  line-height: calc(var(--mwai-spacing) * 2);
+  margin: 0;
+  overflow: hidden;
+}
+
+#mwai-chat-6415f403aa408 .mwai-input textarea:focus {
+  outline: none;
+}
+
+#mwai-chat-6415f403aa408 .mwai-input textarea::placeholder {
+  color: var(--mwai-fontColor);
+  opacity: 0.5;
+}
+
+#mwai-chat-6415f403aa408 .mwai-compliance {
+  opacity: 0.50;
+  margin-top: calc( -1 * var(--mwai-spacing));
+  padding: calc(var(--mwai-spacing) / 1.5) var(--mwai-spacing);
+  font-size: smaller;
+  color: var(--mwai-fontColor);
+  text-align: left;
+}
+
+#mwai-chat-6415f403aa408 button {
+  background: none;
+  color: var(--mwai-fontColor);
+  background-color: var(--mwai-backgroundSecondaryColor);
+  border: 1px solid var(--mwai-backgroundPrimaryColor);
+  margin-left: var(--mwai-spacing);
+  width: 90px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.2s ease-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#mwai-chat-6415f403aa408 button .mwai-timer {
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 11px;
+}
+
+#mwai-chat-6415f403aa408 button:hover {
+  background: var(--mwai-backgroundPrimaryColor);
+}
+
+#mwai-chat-6415f403aa408 button {
+  position: relative;
+}
+
+#mwai-chat-6415f403aa408 button[disabled] span {
+  display: none;
+}
+
+#mwai-chat-6415f403aa408 button[disabled]::before {
+  content: '';
+  width: 18px;
+  height: 18px;
+  margin: auto;
+  border: 3px solid transparent;
+  border-top-color: var(--mwai-fontColor);
+  border-radius: 50%;
+  animation: mwai-button-spinner 1s ease infinite;
+}
+
+#mwai-chat-6415f403aa408.mwai-window {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  width: var(--mwai-width);
+  z-index: 9999;
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header {
+  display: none;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-resize-button {
+  justify-content: center;
+  height: 32px;
+  width: 33px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--mwai-backgroundSecondaryColor);
+  border-radius: var(--mwai-borderRadius);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-resize-button:before {
+  transition: all 0.2s ease-out;
+  content: ' ';
+  cursor: pointer;
+  position: absolute;
+  height: 13px;
+  width: 13px;
+  opacity: 0.75;
+  border: 2px solid var(--mwai-headerButtonsColor);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-resize-button:hover:before {
+  width: 16px;
+  height: 16px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button {
+  margin-left: 5px;
+  justify-content: center;
+  height: 32px;
+  width: 33px;
+  cursor: pointer;
+  background-color: var(--mwai-backgroundSecondaryColor);
+  border-radius: var(--mwai-borderRadius);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button:before {
+  transition: all 0.2s ease-out;
+  transform: translate(16px, 5px) rotate(45deg);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button:after {
+  transition: all 0.2s ease-out;
+  transform: translate(16px, 5px) rotate(-45deg);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button:before, #mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button:after {
+  content: ' ';
+  cursor: pointer;
+  position: absolute;
+  height: 22px;
+  width: 2px;
+  background-color: var(--mwai-headerButtonsColor);
+  opacity: 0.75;
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button:hover:before {
+  opacity: 1;
+  transform: translate(16px, 5px) rotate(135deg);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-header .mwai-buttons .mwai-close-button:hover:after {
+  opacity: 1;
+  transform: translate(16px, 5px) rotate(45deg);
+}
+
+#mwai-chat-6415f403aa408.mwai-window .mwai-content {
+  display: none;
+  opacity: 0;
+  max-height: var(--mwai-maxHeight);
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-bottom-left {
+  bottom: 30px;
+  right: inherit;
+  left: 30px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-bottom-left .mwai-open-button {
+  right: inherit;
+  left: 0;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-top-right {
+  top: 30px;
+  bottom: inherit;
+  right: 30px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-top-right .mwai-open-button {
+  top: 0;
+  bottom: inherit;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-top-left {
+  top: 30px;
+  bottom: inherit;
+  right: inherit;
+  left: 30px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-top-left .mwai-open-button {
+  top: 0;
+  bottom: inherit;
+  right: inherit;
+  left: 0;
+}
+
+#mwai-chat-6415f403aa408 .mwai-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+}
+
+#mwai-chat-6415f403aa408 .mwai-gallery img {
+  width: 100%;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-fullscreen .mwai-header .mwai-buttons {
+  margin-bottom: 0px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-fullscreen .mwai-header .mwai-buttons .mwai-resize-button:before {
+  width: 16px;
+  height: 16px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-fullscreen .mwai-header .mwai-buttons .mwai-resize-button:hover:before {
+  width: 13px;
+  height: 13px;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-fullscreen .mwai-header .mwai-buttons .mwai-close-button {
+  margin-left: -5px;
+}
+
+#mwai-chat-6415f403aa408.mwai-fullscreen:not(.mwai-window), #mwai-chat-6415f403aa408.mwai-fullscreen.mwai-window.mwai-open {
+  position: fixed;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  top: 0 !important;
+  width: inherit;
+  height: inherit;
+  max-height: inherit;
+  max-width: inherit;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  z-index: 999999;
+  background-color: var(--mwai-backgroundSecondaryColor);
+}
+
+#mwai-chat-6415f403aa408.mwai-fullscreen:not(.mwai-window) .mwai-content, #mwai-chat-6415f403aa408.mwai-fullscreen.mwai-window.mwai-open .mwai-content {
+  height: 100%;
+  max-height: inherit;
+  border-radius: inherit;
+}
+
+#mwai-chat-6415f403aa408.mwai-fullscreen:not(.mwai-window) .mwai-content .mwai-conversation, #mwai-chat-6415f403aa408.mwai-fullscreen.mwai-window.mwai-open .mwai-content .mwai-conversation {
+  flex: auto;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-open .mwai-header {
+  display: flex;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-open .mwai-content {
+  display: flex;
+  transition: opacity 200ms ease-in-out 0s;
+  opacity: 1;
+}
+
+#mwai-chat-6415f403aa408.mwai-window.mwai-open .mwai-open-button {
+  display: none;
+}
+
+@media (max-width: 760px) {
+  #mwai-chat-6415f403aa408.mwai-window {
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    width: calc(100% - 20px);
+    z-index: 9999999999;
+  }
+  #mwai-chat-6415f403aa408 .mwai-reply {
+    flex-direction: column;
+  }
+  #mwai-chat-6415f403aa408 .mwai-input {
+    flex-direction: column;
+  }
+  #mwai-chat-6415f403aa408 .mwai-input button {
+    margin: 15px 0 0 0;
+    height: 40px;
+    width: inherit;
+  }
+  #mwai-chat-6415f403aa408 .mwai-name {
+    margin-right: 0;
+    max-width: inherit;
+  }
+}
+
+@keyframes mwai-button-spinner {
+  from {
+    transform: rotate(0turn);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+.admin-bar #mwai-chat-6415f403aa408.mwai-fullscreen:not(.mwai-window),
+.admin-bar #mwai-chat-6415f403aa408.mwai-fullscreen.mwai-window.mwai-open {
+  top: 32px;
+}
+</style>			<div id="mwai-chat-6415f403aa408" class="mwai-chat mwai-chatgpt">
+								<div class="mwai-content">
+					<div class="mwai-conversation">
+					</div>
+					<div class="mwai-input">
+						<textarea rows="1" maxlength="512" placeholder="Type your message..."></textarea>
+						<button><span>Send</span></button>
+					</div>
+									</div>
+			</div>
+
+			<script>
+			(function () {
+				let isMobile = window.matchMedia( "only screen and (max-width: 760px)" ).matches;
+				let isWindow = false;
+				let isDebugMode = true;
+				let isFullscreen = false;
+				let restNonce = '85791cdeca';
+				let apiURL = 'http://lucasrede.rf.gd/wp-json/ai-chatbot/v1/chat';
+				let isCasuallyFineTuned = false;
+				let rawUserName = 'User: ';
+				let rawAiName = 'AI: ';
+				let userName = '<div class="mwai-name-text">User:</div>';
+				let aiName = '<div class="mwai-name-text">AI:</div>';
+				let sysName = 'System:';
+				let env = 'chatbot';
+				let apiKey = '';
+				let session = 'N/A';
+				let mode = 'chat';
+				let model = 'gpt-3.5-turbo';
+				let context = isCasuallyFineTuned ? null : 'Converse as if you were an AI assistant. Be friendly, creative.';
+				let embeddingsIndex = '';
+				let promptEnding = '';
+				let stop = '';
+				let startSentence = 'Oi! Como posso ajud&aacute;-lo?';
+				let maxSentences = 15;
+				let memorizeChat = false;
+				let maxTokens = 1024;
+				let maxResults = 1;
+				let temperature = 0.8;
+				let typewriter = false;
+				let copyButton = true;
+				let clientId = randomStr();
+				let memorizedChat = { clientId, messages: [] };
+
+				if (isDebugMode) {
+					window.mwai_6415f403aa408 = {
+						memorizedChat: memorizedChat,
+						parameters: { mode: mode, model, temperature, maxTokens, context: context, startSentence,
+							isMobile, isWindow, isFullscreen, isCasuallyFineTuned, memorizeChat, maxSentences,
+							rawUserName, rawAiName, embeddingsIndex, typewriter, maxResults, userName, aiName, env, apiKey, session
+						}
+					};
+				}
+
+				function randomStr() {
+					return Math.random().toString(36).substring(2);
+				}
+
+				// Set button text
+				function setButtonText() {
+					let input = document.querySelector('#mwai-chat-6415f403aa408 .mwai-input textarea');
+					let button = document.querySelector('#mwai-chat-6415f403aa408 .mwai-input button');
+					let buttonSpan = button.querySelector('span');
+					if (memorizedChat.messages.length < 2) {
+						buttonSpan.innerHTML = 'Send';
+					}
+					else if (!input.value.length) {
+						button.classList.add('mwai-clear');
+						buttonSpan.innerHTML = 'Clear';
+					}
+					else {
+						button.classList.remove('mwai-clear');
+						buttonSpan.innerHTML = 'Send';
+					}
+				}
+
+				// Inject timer
+				function injectTimer(element) {
+					let intervalId;
+					let startTime = new Date();
+					let timerElement = null;
+
+					function updateTimer() {
+						let now = new Date();
+						let timer = Math.floor((now - startTime) / 1000);
+						if (!timerElement) {
+							if (timer > 0.5) {
+								timerElement = document.createElement('div');
+								timerElement.classList.add('mwai-timer');
+								element.appendChild(timerElement);
+							}
+						}
+						if (timerElement) {
+							let minutes = Math.floor(timer / 60);
+							let seconds = timer - (minutes * 60);
+							seconds = seconds < 10 ? '0' + seconds : seconds;
+							let display = minutes + ':' + seconds;
+							timerElement.innerHTML = display;
+						}
+					}
+
+					intervalId = setInterval(updateTimer, 500);
+
+					return function stopTimer() {
+						clearInterval(intervalId);
+						if (timerElement) {
+							timerElement.remove();
+						}
+					};
+				}
+
+				// Push the reply in the conversation
+				function addReply(text, role = 'user', replay = false) {
+					var conversation = document.querySelector('#mwai-chat-6415f403aa408 .mwai-conversation');
+
+					if (memorizeChat) {
+						localStorage.setItem('mwai-chat-6415f403aa408', JSON.stringify(memorizedChat));
+					}
+
+					// If text is array, then it's image URLs. Let's create a simple gallery in HTML in $text.
+					if (Array.isArray(text)) {
+						var newText = '<div class="mwai-gallery">';
+						for (var i = 0; i < text.length; i++) {
+							newText += '<a href="' + text[i] + '" target="_blank"><img src="' + text[i] + '" />';
+						}
+						text = newText + '</div>';
+					}
+
+					var mwaiClasses = ['mwai-reply'];
+					if (role === 'assistant') {
+						mwaiClasses.push('mwai-ai');
+					}
+					else if (role === 'system') {
+						mwaiClasses.push('mwai-system');
+					}
+					else {
+						mwaiClasses.push('mwai-user');
+					}
+					var div = document.createElement('div');
+					div.classList.add(...mwaiClasses);
+					var nameSpan = document.createElement('span');
+					nameSpan.classList.add('mwai-name');
+					if (role === 'assistant') {
+						nameSpan.innerHTML = aiName;
+					}
+					else if (role === 'system') {
+						nameSpan.innerHTML = sysName;
+					}
+					else {
+						nameSpan.innerHTML = userName;
+					}
+					var textSpan = document.createElement('span');
+					textSpan.classList.add('mwai-text');
+					textSpan.innerHTML = text;
+					div.appendChild(nameSpan);
+					div.appendChild(textSpan);
+
+					// Copy Button
+					if (copyButton && role === 'assistant') {
+						var button = document.createElement('div');
+						button.classList.add('mwai-copy-button');
+						var firstElement = document.createElement('div');
+						firstElement.classList.add('mwai-copy-button-one');
+						var secondElement = document.createElement('div');
+						secondElement.classList.add('mwai-copy-button-two');
+						button.appendChild(firstElement);
+						button.appendChild(secondElement);
+						div.appendChild(button);
+						button.addEventListener('click', function () {
+							try {
+								var content = textSpan.textContent;
+								navigator.clipboard.writeText(content);
+								button.classList.add('mwai-animate');
+								setTimeout(function () {
+									button.classList.remove('mwai-animate');
+								}, 1000);
+							}
+							catch (err) {
+								console.warn('Not allowed to copy to clipboard. Make sure your website uses HTTPS.');
+							}
+						});
+					}
+
+					conversation.appendChild(div);
+
+					if (typewriter) {
+						if (role === 'assistant' && text !== startSentence && !replay) {
+							let typewriter = new Typewriter(textSpan, {
+								deleteSpeed: 50, delay: 25, loop: false, cursor: '', autoStart: true,
+								wrapperClassName: 'mwai-typewriter',
+							});
+							typewriter.typeString(text).start().callFunction((state) => {
+								state.elements.cursor.setAttribute('hidden', 'hidden');
+								typewriter.stop();
+							});
+						}
+					}
+
+					conversation.scrollTop = conversation.scrollHeight;
+					setButtonText();
+
+					// Syntax coloring
+					if (typeof hljs !== 'undefined') {
+						document.querySelectorAll('pre code').forEach((el) => {
+							hljs.highlightElement(el);
+						});
+					}
+				}
+
+				function buildPrompt(last = 15) {
+					let prompt = context ? (context + '\n\n') : '';
+					memorizedChat.messages = memorizedChat.messages.slice(-last);
+
+					// Casually fine tuned, let's use the last question
+					if (isCasuallyFineTuned) {
+						let lastLine = memorizedChat.messages[memorizedChat.messages.length - 1];
+						prompt = lastLine.content + promptEnding;
+						return prompt;
+					}
+
+					// Otherwise let's compile the latest conversation
+					let conversation = memorizedChat.messages.map(x => x.who + x.content);
+					prompt += conversation.join('\n');
+					prompt += '\n' + rawAiName;
+					return prompt;
+				}
+
+				// Function to request the completion
+				function onSendClick() {
+					let input = document.querySelector('#mwai-chat-6415f403aa408 .mwai-input textarea');
+					let inputText = input.value.trim();
+
+					// Reset the conversation if empty
+					if (inputText === '') {
+						clientId = randomStr();
+						document.querySelector('#mwai-chat-6415f403aa408 .mwai-conversation').innerHTML = '';
+						localStorage.removeItem('mwai-chat-6415f403aa408')
+						memorizedChat = { clientId: clientId, messages: [] };
+						memorizedChat.messages.push({ 
+							id: randomStr(),
+							role: 'assistant',
+							content: startSentence,
+							who: rawAiName,
+							html: startSentence
+						});
+						addReply(startSentence, 'assistant');
+						return;
+					}
+
+					// Disable the button
+					var button = document.querySelector('#mwai-chat-6415f403aa408 .mwai-input button');
+					button.disabled = true;
+
+					// Add the user reply
+					memorizedChat.messages.push({
+						id: randomStr(),
+						role: 'user',
+						content: inputText,
+						who: rawUserName,
+						html: inputText
+					});
+					addReply(inputText, 'user');
+					input.value = '';
+					input.setAttribute('rows', 1);
+					input.disabled = true;
+
+					let prompt = buildPrompt(maxSentences);
+
+					const data = mode === 'images' ? {
+						env, session: session,
+						prompt: inputText, rawInput: inputText,
+						model: model, maxResults, apiKey: apiKey, clientId: clientId,
+					} : {
+						env, session: session,
+						prompt: prompt, context: context,
+						messages: memorizedChat.messages, rawInput: inputText,
+						userName: userName, aiName: aiName,
+						model: model, temperature: temperature, maxTokens: maxTokens, maxResults: 1, apiKey: apiKey,
+						embeddingsIndex: embeddingsIndex, stop: stop, clientId: clientId,
+					};
+
+					// Start the timer
+					const stopTimer = injectTimer(button);
+
+					// Send the request
+					if (isDebugMode) {
+						console.log('[BOT] Sent: ', data);
+					}
+					fetch(apiURL, { method: 'POST', headers: {
+							'Content-Type': 'application/json',
+							'X-WP-Nonce': restNonce,
+						},
+						body: JSON.stringify(data)
+					})
+					.then(response => response.json())
+					.then(data => {
+						if (isDebugMode) {
+							console.log('[BOT] Recv: ', data);
+						}
+						if (!data.success) {
+							addReply(data.message, 'system');
+						}
+						else {
+							let html = data.images ? data.images : data.html;
+							memorizedChat.messages.push({
+								id: randomStr(),
+								role: 'assistant',
+								content: data.answer,
+								who: rawAiName,
+								html: html
+							});
+							addReply(html, 'assistant');
+						}
+						button.disabled = false;
+						input.disabled = false;
+						stopTimer();
+
+						// Only focus only on desktop (to avoid the mobile keyboard to kick-in)
+						if (!isMobile) {
+							input.focus();
+						}
+					})
+					.catch(error => {
+						console.error(error);
+						button.disabled = false;
+						input.disabled = false;
+						stopTimer();
+					});
+				}
+
+				// Keep the textarea height in sync with the content
+				function resizeTextArea(ev) {
+					ev.target.style.height = 'auto';
+					ev.target.style.height = ev.target.scrollHeight + 'px';
+				}
+
+				// Keep the textarea height in sync with the content
+				function delayedResizeTextArea(ev) {
+					window.setTimeout(resizeTextArea, 0, event);
+				}
+
+				// Init the chatbot
+				function initMeowChatbot() {
+					var input = document.querySelector('#mwai-chat-6415f403aa408 .mwai-input textarea');
+					var button = document.querySelector('#mwai-chat-6415f403aa408 .mwai-input button');
+
+					input.addEventListener('keypress', (event) => {
+						let text = event.target.value;
+						if (event.keyCode === 13 && !text.length && !event.shiftKey) {
+							event.preventDefault();
+							return;
+						}
+						if (event.keyCode === 13 && text.length && !event.shiftKey) {
+							onSendClick();
+						}
+					});
+					input.addEventListener('keydown', (event) => {
+						var rows = input.getAttribute('rows');
+						if (event.keyCode === 13 && event.shiftKey) {
+							var lines = input.value.split('\n').length + 1;
+							//mwaiSetTextAreaHeight(input, lines);
+						}
+					});
+					input.addEventListener('keyup', (event) => {
+						var rows = input.getAttribute('rows');
+						var lines = input.value.split('\n').length ;
+						//mwaiSetTextAreaHeight(input, lines);
+						setButtonText();
+					});
+
+					input.addEventListener('change', resizeTextArea, false);
+					input.addEventListener('cut', delayedResizeTextArea, false);
+					input.addEventListener('paste', delayedResizeTextArea, false);
+					input.addEventListener('drop', delayedResizeTextArea, false);
+					input.addEventListener('keydown', delayedResizeTextArea, false);
+
+					button.addEventListener('click', (event) => {
+						onSendClick();
+					});
+
+					// If window, add event listener to mwai-open-button and mwai-close-button
+					if ( isWindow ) {
+						var openButton = document.querySelector('#mwai-chat-6415f403aa408 .mwai-open-button');
+						openButton.addEventListener('click', (event) => {
+							var chat = document.querySelector('#mwai-chat-6415f403aa408');
+							chat.classList.add('mwai-open');
+							// Only focus only on desktop (to avoid the mobile keyboard to kick-in)
+							if (!isMobile) {
+								input.focus();
+							}
+						});
+						var closeButton = document.querySelector('#mwai-chat-6415f403aa408 .mwai-close-button');
+						closeButton.addEventListener('click', (event) => {
+							var chat = document.querySelector('#mwai-chat-6415f403aa408');
+							chat.classList.remove('mwai-open');
+						});
+						if (isFullscreen) {
+							var resizeButton = document.querySelector('#mwai-chat-6415f403aa408 .mwai-resize-button');
+							resizeButton.addEventListener('click', (event) => {
+								var chat = document.querySelector('#mwai-chat-6415f403aa408');
+								chat.classList.toggle('mwai-fullscreen');
+							});
+						}
+					}
+
+					// Get back the previous chat if any for the same ID
+					var chatHistory = [];
+					if (memorizeChat) {
+						chatHistory = localStorage.getItem('mwai-chat-6415f403aa408');
+						if (chatHistory) {
+							memorizedChat = JSON.parse(chatHistory);
+							if (memorizedChat && memorizedChat.clientId && memorizedChat.messages) {
+								clientId = memorizedChat.clientId;
+								memorizedChat.messages = memorizedChat.messages.filter(x => x && x.html && x.role);
+								memorizedChat.messages.forEach(x => {
+									addReply(x.html, x.role, true);
+								});
+							}
+							else {
+								memorizedChat = null;
+							}
+						}
+						if (!memorizedChat) {
+							memorizedChat = {
+								clientId: clientId,
+								messages: []
+							};
+						}
+					}
+					if (memorizedChat.messages.length === 0) {
+						memorizedChat.messages.push({ 
+							id: randomStr(),
+							role: 'assistant',
+							content: startSentence,
+							who: rawAiName,
+							html: startSentence
+						});
+						addReply(startSentence, 'assistant');
+					}
+				}
+
+				// Let's go totally meoooow on this!
+				initMeowChatbot();
+			})();
+			</script>
+
+			<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/init-buttons.js?ver=//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/init-buttons.js' id='depay-donations-init-buttons-js'></script>
+<script type='text/javascript' id='depay-donations-frontend-script-js-extra'>
+/* <![CDATA[ */
+var DePay_donations_widget_color_primary = "#32373c";
+var DePay_donations_widget_color_buttons = "#ffffff";
+var DePay_donations_widget_color_icons = "#000000";
+var DePay_donations_widget_color_text = "#212529>";
+var DePay_donations_widget_css = ".ButtonPrimary {  border-radius: 2px;}.ButtonPrimary:hover {  opacity: 0.9;}";
+var DePay_donations_button_css = "button {  border-radius: 2px;  background: #32373c;}button:hover {  opacity: 0.9;}";
+var DePay_donations_button_label = "Support Us";
+var DePay_donations_receiving_wallet_address = "0x3c171BBeAFd19C6C765c1d9B5d03D8DC1432B28d";
+var DePay_donations_accepted_payments = [{"address":"0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE","blockchain":"ethereum","decimals":"18","logo":"data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiCgkgaW1hZ2UtcmVuZGVyaW5nPSJvcHRpbWl6ZVF1YWxpdHkiIHNoYXBlLXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiB0ZXh0LXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIgoJIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjgzLjUgMjgzLjUiCgkgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjgzLjUgMjgzLjU7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8Zz4KCQk8cGF0aCBmaWxsPSIjMzQzNDM0IiBkPSJNMTQxLjcsMjUuOWwtMS41LDUuMnYxNTMuM2wxLjUsMS41bDcxLjItNDIuMUwxNDEuNywyNS45eiIvPgoJCTxwYXRoIGZpbGw9IiM4QzhDOEMiIGQ9Ik0xNDEuNywyNS45TDcwLjYsMTQzLjhsNzEuMSw0Mi4xdi03NC40VjI1Ljl6Ii8+CgkJPHBhdGggZmlsbD0iIzNDM0MzQiIgZD0iTTE0MS43LDE5OS40bC0wLjgsMS4xdjU0LjZsMC44LDIuNWw3MS4yLTEwMC4zTDE0MS43LDE5OS40eiIvPgoJCTxwYXRoIGZpbGw9IiM4QzhDOEMiIGQ9Ik0xNDEuNywyNTcuNnYtNTguMmwtNzEuMS00Mi4xTDE0MS43LDI1Ny42eiIvPgoJCTxwYXRoIGZpbGw9IiMxNDE0MTQiIGQ9Ik0xNDEuNywxODUuOWw3MS4yLTQyLjFsLTcxLjItMzIuM1YxODUuOXoiLz4KCQk8cGF0aCBmaWxsPSIjMzkzOTM5IiBkPSJNNzAuNiwxNDMuOGw3MS4xLDQyLjF2LTc0LjRMNzAuNiwxNDMuOHoiLz4KCTwvZz4KPC9nPgo8L3N2Zz4K","name":"Ether","symbol":"ETH"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/frontend.js?ver=//lucasrede.rf.gd/wp-content/plugins/depay-donations/core/includes/assets/js/frontend.js' id='depay-donations-frontend-script-js'></script>
+<script type='text/javascript' id='crisp-js-before'>
+    window.$crisp=[];
+    CRISP_RUNTIME_CONFIG = {
+      locale : 'pt-br'
+    };
+    CRISP_WEBSITE_ID = '3763d9eb-9984-4b75-be83-f99782dbc597';
+</script>
+<script type='text/javascript'  async src='https://client.crisp.chat/l.js?ver=6.1.1' id='crisp-js'></script>
+<script type='text/javascript' id='erp-subscription-form-js-extra'>
+/* <![CDATA[ */
+var erpSubscriptionForm = {"ajaxurl":"http:\/\/lucasrede.rf.gd\/wp-admin\/admin-ajax.php","nonce":"52a9d71d96"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/erp/modules/crm/assets/js/erp-subscription-form.js?ver=1.12.1' id='erp-subscription-form-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fechar","currentText":"Hoje","monthNames":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesShort":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"nextText":"Seguinte","prevText":"Anterior","dayNames":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"dayNamesShort":["dom","seg","ter","qua","qui","sex","s\u00e1b"],"dayNamesMin":["D","S","T","Q","Q","S","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-01-08 13:50:14+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Notifications":["Notifica\u00e7\u00f5es"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"Nenhum resultado encontrado.","oneResult":"Foi encontrado um resultado. Use as setas para cima e para baixo do teclado para navegar.","manyResults":"Foram encontrados %d resultados. Use as setas para cima e para baixo do teclado para navegar.","itemSelected":"Item selecionado."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' id='profile-magic-footer.js-js-extra'>
+/* <![CDATA[ */
+var show_rm_sumbmission_tab = {"registration_tab":"0"};
+var pm_ajax_object = {"ajax_url":"http:\/\/lucasrede.rf.gd\/wp-admin\/admin-ajax.php","plugin_emoji_url":"http:\/\/lucasrede.rf.gd\/wp-content\/plugins\/profilegrid-user-profiles-groups-and-communities\/public\/partials\/images\/img","nonce":"0ad5e2cb8e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/js/profile-magic-footer.js?ver=5.3.2' id='profile-magic-footer.js-js'></script>
+<script type='text/javascript' id='heartbeat-js-extra'>
+/* <![CDATA[ */
+var heartbeatSettings = {"ajaxurl":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/heartbeat.min.js?ver=6.1.1' id='heartbeat-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/js/pg-password-checker.js?ver=5.3.2' id='pg-password-checker.js-js'></script>
+<script type='text/javascript' id='profile-magic-admin-power.js-js-extra'>
+/* <![CDATA[ */
+var pm_error_object = {"valid_email":"Insira um endere\u00e7o de e-mail v\u00e1lido.","valid_number":"Insira um n\u00famero v\u00e1lido.","valid_date":"Insira uma data v\u00e1lida (formato aaaa-mm-dd).","required_field":"Este \u00e9 um campo obrigat\u00f3rio.","required_comman_field":"Preencha todos os campos obrigat\u00f3rios.","file_type":"Este tipo de arquivo n\u00e3o \u00e9 permitido.","short_password":"Sua senha deve ter pelo menos 7 caracteres.","pass_not_match":"A senha e a confirma\u00e7\u00e3o de senha n\u00e3o conferem.","user_exist":"Este nome de usu\u00e1rio j\u00e1 existe.","email_exist":"Este e-mail j\u00e1 existe.","show_more":"Mais...","show_less":"Mostrar menos","user_not_exit":"O nome de usu\u00e1rio n\u00e3o existe.","password_change_successfully":"Senha alterada com sucesso","allow_file_ext":"jpg|jpeg|png|gif","valid_phone_number":"Insira um n\u00famero de telefone v\u00e1lido.","valid_mobile_number":"Coloque um n\u00famero de celular v\u00e1lido.","valid_facebook_url":"Insira um URL v\u00e1lido no Facebook.","valid_twitter_url":"Insira um URL do Twitter.","valid_google_url":"Insira um URL v\u00e1lido no Google+.","valid_linked_in_url":"Insira um URL do LinkedIn.","valid_youtube_url":"Insira um URL v\u00e1lido no Youtube.","valid_mixcloud_url":"Please enter a valid Mixcloud url.","valid_soundcloud_url":"Please enter a valid SoundCloud url.","valid_instagram_url":"Insira um URL v\u00e1lido no Instagram.","crop_alert_error":"Selecione uma regi\u00e3o de recorte e pressione enviar.","admin_note_error":"N\u00e3o \u00e9 poss\u00edvel adicionar uma nota vazia. Escreva algo e tente novamente.","empty_message_error":"N\u00e3o \u00e9 poss\u00edvel enviar uma mensagem vazia. Digite algo.","invite_limit_error":"Apenas dez usu\u00e1rios podem ser convidados por vez.","no_more_result":"Nenhum outro resultado foi encontrado","delete_friend_request":"Isso excluir\u00e1 a solicita\u00e7\u00e3o de amizade do(s) usu\u00e1rio(s) selecionado(s). Voc\u00ea deseja continuar?","remove_friend":"Isso remover\u00e1 o(s) usu\u00e1rio(s) selecionado(s) da sua lista de amigos. Voc\u00ea deseja continuar?","accept_friend_request_conf":"Isso aceitar\u00e1 a solicita\u00e7\u00e3o do(s) usu\u00e1rio(s) selecionado(s). Voc\u00ea deseja continuar?","cancel_friend_request":"Isso cancelar\u00e1 a solicita\u00e7\u00e3o do(s) usu\u00e1rio(s) selecionado(s). Voc\u00ea deseja continuar?","next":"Pr\u00f3ximo","back":"Voltar","submit":"Enviar","empty_chat_message":"Desculpe, n\u00e3o posso enviar uma mensagem vazia. Escreva algo e tente envi\u00e1-la novamente.","login_url":"http:\/\/lucasrede.rf.gd\/login\/?password=changed"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/js/profile-magic-admin-power.js?ver=5.3.2' id='profile-magic-admin-power.js-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/sportspress/assets/js/jquery.dataTables.min.js?ver=1.10.4' id='jquery-datatables-js'></script>
+<script type='text/javascript' id='sportspress-js-extra'>
+/* <![CDATA[ */
+var localized_strings = {"days":"dias","hrs":"hrs","mins":"mins","secs":"s","previous":"Anteriores","next":"Pr\u00f3ximo"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/sportspress/assets/js/sportspress.js?ver=2.7.16' id='sportspress-js'></script>
+<script type='text/javascript' id='superpwa-register-sw-js-extra'>
+/* <![CDATA[ */
+var superpwa_sw = {"url":"\/superpwa-sw.js","disable_addtohome":"0","enableOnDesktop":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js' id='superpwa-register-sw-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.5.0' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrinho","cart_url":"http:\/\/lucasrede.rf.gd\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.5.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.5.0' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.5.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_55ccf91a32c212cf448983ba7b988c5f","fragment_name":"wc_fragments_55ccf91a32c212cf448983ba7b988c5f","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.5.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.7.5.0' id='select2-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/wp-radio/assets/vendor/jquery.hideseek.min.js?ver=3.1.9' id='jquery.hideseek-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"pt","strings":{"mejs.download-file":"Fazer download do arquivo","mejs.install-flash":"Voc\u00ea est\u00e1 usando um navegador que n\u00e3o tem Flash ativo ou instalado. Ative o plugin do Flash player ou baixe a \u00faltima vers\u00e3o em https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Tela inteira","mejs.play":"Reproduzir","mejs.pause":"Pausar","mejs.time-slider":"Tempo do slider","mejs.time-help-text":"Use as setas esquerda e direita para avan\u00e7ar um segundo. Acima e abaixo para avan\u00e7ar dez segundos.","mejs.live-broadcast":"Transmiss\u00e3o ao vivo","mejs.volume-help-text":"Use as setas para cima ou para baixo para aumentar ou diminuir o volume.","mejs.unmute":"Desativar mudo","mejs.mute":"Mudo","mejs.volume-slider":"Controle de volume","mejs.video-player":"Tocador de v\u00eddeo","mejs.audio-player":"Tocador de \u00e1udio","mejs.captions-subtitles":"Transcri\u00e7\u00f5es\/Legendas","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Nenhum","mejs.afrikaans":"Afric\u00e2ner","mejs.albanian":"Alban\u00eas","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorrusso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e3o","mejs.chinese":"Chin\u00eas","mejs.chinese-simplified":"Chin\u00eas (simplificado)","mejs.chinese-traditional":"Chin\u00eas (tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dinamarqu\u00eas","mejs.dutch":"Holand\u00eas","mejs.english":"Ingl\u00eas","mejs.estonian":"Estoniano","mejs.filipino":"Filipino","mejs.finnish":"Finland\u00eas","mejs.french":"Franc\u00eas","mejs.galician":"Galega","mejs.german":"Alem\u00e3o","mejs.greek":"Grego","mejs.haitian-creole":"Crioulo haitiano","mejs.hebrew":"Hebraico","mejs.hindi":"Hindi","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00eas","mejs.indonesian":"Indon\u00e9sio","mejs.irish":"Irland\u00eas","mejs.italian":"Italiano","mejs.japanese":"Japon\u00eas","mejs.korean":"Coreano","mejs.latvian":"Let\u00e3o","mejs.lithuanian":"Lituano","mejs.macedonian":"Maced\u00f4nio","mejs.malay":"Malaio","mejs.maltese":"Malt\u00eas","mejs.norwegian":"Noruegu\u00eas","mejs.persian":"Persa","mejs.polish":"Polon\u00eas","mejs.portuguese":"Portugu\u00eas","mejs.romanian":"Romeno","mejs.russian":"Russo","mejs.serbian":"S\u00e9rvio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espanhol","mejs.swahili":"Sua\u00edli","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00eas","mejs.turkish":"Turco","mejs.ukrainian":"Ucraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00eas","mejs.yiddish":"I\u00eddiche"}};
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.1.1' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.1.1' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/wp-util.min.js?ver=6.1.1' id='wp-util-js'></script>
+<script type='text/javascript' id='wp-radio-js-extra'>
+/* <![CDATA[ */
+var wpRadio = {"pluginUrl":"http:\/\/lucasrede.rf.gd\/wp-content\/plugins\/wp-radio","ajaxUrl":"http:\/\/lucasrede.rf.gd\/wp-admin\/admin-ajax.php","siteUrl":"http:\/\/lucasrede.rf.gd","popupURL":"http:\/\/lucasrede.rf.gd","nonce":"85791cdeca","isPro":"","settings":{"stations_page":9}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/wp-radio/assets/js/frontend.js?ver=3.1.9' id='wp-radio-js'></script>
+<script type='text/javascript' id='xoo-aff-js-js-extra'>
+/* <![CDATA[ */
+var xoo_aff_localize = {"adminurl":"http:\/\/lucasrede.rf.gd\/wp-admin\/admin-ajax.php","countries":"{\"AF\":\"Afghanistan\",\"AX\":\"\u00c5land Islands\",\"AL\":\"Albania\",\"DZ\":\"Algeria\",\"AS\":\"American Samoa\",\"AD\":\"Andorra\",\"AO\":\"Angola\",\"AI\":\"Anguilla\",\"AQ\":\"Antarctica\",\"AG\":\"Antigua and Barbuda\",\"AR\":\"Argentina\",\"AM\":\"Armenia\",\"AW\":\"Aruba\",\"AU\":\"Australia\",\"AT\":\"Austria\",\"AZ\":\"Azerbaijan\",\"BS\":\"Bahamas\",\"BH\":\"Bahrain\",\"BD\":\"Bangladesh\",\"BB\":\"Barbados\",\"BY\":\"Belarus\",\"BE\":\"Belgium\",\"PW\":\"Belau\",\"BZ\":\"Belize\",\"BJ\":\"Benin\",\"BM\":\"Bermuda\",\"BT\":\"Bhutan\",\"BO\":\"Bolivia\",\"BQ\":\"Bonaire, Saint Eustatius and Saba\",\"BA\":\"Bosnia and Herzegovina\",\"BW\":\"Botswana\",\"BV\":\"Bouvet Island\",\"BR\":\"Brazil\",\"IO\":\"British Indian Ocean Territory\",\"BN\":\"Brunei\",\"BG\":\"Bulgaria\",\"BF\":\"Burkina Faso\",\"BI\":\"Burundi\",\"KH\":\"Cambodia\",\"CM\":\"Cameroon\",\"CA\":\"Canada\",\"CV\":\"Cape Verde\",\"KY\":\"Cayman Islands\",\"CF\":\"Central African Republic\",\"TD\":\"Chad\",\"CL\":\"Chile\",\"CN\":\"China\",\"CX\":\"Christmas Island\",\"CC\":\"Cocos (Keeling) Islands\",\"CO\":\"Colombia\",\"KM\":\"Comoros\",\"CG\":\"Congo (Brazzaville)\",\"CD\":\"Congo (Kinshasa)\",\"CK\":\"Cook Islands\",\"CR\":\"Costa Rica\",\"HR\":\"Croatia\",\"CU\":\"Cuba\",\"CW\":\"Cura\u00e7ao\",\"CY\":\"Cyprus\",\"CZ\":\"Czech Republic\",\"DK\":\"Denmark\",\"DJ\":\"Djibouti\",\"DM\":\"Dominica\",\"DO\":\"Dominican Republic\",\"EC\":\"Ecuador\",\"EG\":\"Egypt\",\"SV\":\"El Salvador\",\"GQ\":\"Equatorial Guinea\",\"ER\":\"Eritrea\",\"EE\":\"Estonia\",\"ET\":\"Ethiopia\",\"FK\":\"Falkland Islands\",\"FO\":\"Faroe Islands\",\"FJ\":\"Fiji\",\"FI\":\"Finland\",\"FR\":\"France\",\"GF\":\"French Guiana\",\"PF\":\"French Polynesia\",\"TF\":\"French Southern Territories\",\"GA\":\"Gabon\",\"GM\":\"Gambia\",\"GE\":\"Georgia\",\"DE\":\"Germany\",\"GH\":\"Ghana\",\"GI\":\"Gibraltar\",\"GR\":\"Greece\",\"GL\":\"Greenland\",\"GD\":\"Grenada\",\"GP\":\"Guadeloupe\",\"GU\":\"Guam\",\"GT\":\"Guatemala\",\"GG\":\"Guernsey\",\"GN\":\"Guinea\",\"GW\":\"Guinea-Bissau\",\"GY\":\"Guyana\",\"HT\":\"Haiti\",\"HM\":\"Heard Island and McDonald Islands\",\"HN\":\"Honduras\",\"HK\":\"Hong Kong\",\"HU\":\"Hungary\",\"IS\":\"Iceland\",\"IN\":\"India\",\"ID\":\"Indonesia\",\"IR\":\"Iran\",\"IQ\":\"Iraq\",\"IE\":\"Ireland\",\"IM\":\"Isle of Man\",\"IL\":\"Israel\",\"IT\":\"Italy\",\"CI\":\"Ivory Coast\",\"JM\":\"Jamaica\",\"JP\":\"Japan\",\"JE\":\"Jersey\",\"JO\":\"Jordan\",\"KZ\":\"Kazakhstan\",\"KE\":\"Kenya\",\"KI\":\"Kiribati\",\"KW\":\"Kuwait\",\"KG\":\"Kyrgyzstan\",\"LA\":\"Laos\",\"LV\":\"Latvia\",\"LB\":\"Lebanon\",\"LS\":\"Lesotho\",\"LR\":\"Liberia\",\"LY\":\"Libya\",\"LI\":\"Liechtenstein\",\"LT\":\"Lithuania\",\"LU\":\"Luxembourg\",\"MO\":\"Macao S.A.R., China\",\"MK\":\"North Macedonia\",\"MG\":\"Madagascar\",\"MW\":\"Malawi\",\"MY\":\"Malaysia\",\"MV\":\"Maldives\",\"ML\":\"Mali\",\"MT\":\"Malta\",\"MH\":\"Marshall Islands\",\"MQ\":\"Martinique\",\"MR\":\"Mauritania\",\"MU\":\"Mauritius\",\"YT\":\"Mayotte\",\"MX\":\"Mexico\",\"FM\":\"Micronesia\",\"MD\":\"Moldova\",\"MC\":\"Monaco\",\"MN\":\"Mongolia\",\"ME\":\"Montenegro\",\"MS\":\"Montserrat\",\"MA\":\"Morocco\",\"MZ\":\"Mozambique\",\"MM\":\"Myanmar\",\"NA\":\"Namibia\",\"NR\":\"Nauru\",\"NP\":\"Nepal\",\"NL\":\"Netherlands\",\"NC\":\"New Caledonia\",\"NZ\":\"New Zealand\",\"NI\":\"Nicaragua\",\"NE\":\"Niger\",\"NG\":\"Nigeria\",\"NU\":\"Niue\",\"NF\":\"Norfolk Island\",\"MP\":\"Northern Mariana Islands\",\"KP\":\"North Korea\",\"NO\":\"Norway\",\"OM\":\"Oman\",\"PK\":\"Pakistan\",\"PS\":\"Palestinian Territory\",\"PA\":\"Panama\",\"PG\":\"Papua New Guinea\",\"PY\":\"Paraguay\",\"PE\":\"Peru\",\"PH\":\"Philippines\",\"PN\":\"Pitcairn\",\"PL\":\"Poland\",\"PT\":\"Portugal\",\"PR\":\"Puerto Rico\",\"QA\":\"Qatar\",\"RE\":\"Reunion\",\"RO\":\"Romania\",\"RU\":\"Russia\",\"RW\":\"Rwanda\",\"BL\":\"Saint Barth\u00e9lemy\",\"SH\":\"Saint Helena\",\"KN\":\"Saint Kitts and Nevis\",\"LC\":\"Saint Lucia\",\"MF\":\"Saint Martin (French part)\",\"SX\":\"Saint Martin (Dutch part)\",\"PM\":\"Saint Pierre and Miquelon\",\"VC\":\"Saint Vincent and the Grenadines\",\"SM\":\"San Marino\",\"ST\":\"S\u00e3o Tom\u00e9 and Pr\u00edncipe\",\"SA\":\"Saudi Arabia\",\"SN\":\"Senegal\",\"RS\":\"Serbia\",\"SC\":\"Seychelles\",\"SL\":\"Sierra Leone\",\"SG\":\"Singapore\",\"SK\":\"Slovakia\",\"SI\":\"Slovenia\",\"SB\":\"Solomon Islands\",\"SO\":\"Somalia\",\"ZA\":\"South Africa\",\"GS\":\"South Georgia\\\/Sandwich Islands\",\"KR\":\"South Korea\",\"SS\":\"South Sudan\",\"ES\":\"Spain\",\"LK\":\"Sri Lanka\",\"SD\":\"Sudan\",\"SR\":\"Suriname\",\"SJ\":\"Svalbard and Jan Mayen\",\"SZ\":\"Swaziland\",\"SE\":\"Sweden\",\"CH\":\"Switzerland\",\"SY\":\"Syria\",\"TW\":\"Taiwan\",\"TJ\":\"Tajikistan\",\"TZ\":\"Tanzania\",\"TH\":\"Thailand\",\"TL\":\"Timor-Leste\",\"TG\":\"Togo\",\"TK\":\"Tokelau\",\"TO\":\"Tonga\",\"TT\":\"Trinidad and Tobago\",\"TN\":\"Tunisia\",\"TR\":\"Turkey\",\"TM\":\"Turkmenistan\",\"TC\":\"Turks and Caicos Islands\",\"TV\":\"Tuvalu\",\"UG\":\"Uganda\",\"UA\":\"Ukraine\",\"AE\":\"United Arab Emirates\",\"GB\":\"United Kingdom (UK)\",\"US\":\"United States (US)\",\"UM\":\"United States (US) Minor Outlying Islands\",\"UY\":\"Uruguay\",\"UZ\":\"Uzbekistan\",\"VU\":\"Vanuatu\",\"VA\":\"Vatican\",\"VE\":\"Venezuela\",\"VN\":\"Vietnam\",\"VG\":\"Virgin Islands (British)\",\"VI\":\"Virgin Islands (US)\",\"WF\":\"Wallis and Futuna\",\"EH\":\"Western Sahara\",\"WS\":\"Samoa\",\"YE\":\"Yemen\",\"ZM\":\"Zambia\",\"ZW\":\"Zimbabwe\"}","states":"{\"AF\":[],\"AO\":{\"BGO\":\"Bengo\",\"BLU\":\"Benguela\",\"BIE\":\"Bi\\u00e9\",\"CAB\":\"Cabinda\",\"CNN\":\"Cunene\",\"HUA\":\"Huambo\",\"HUI\":\"Hu\\u00edla\",\"CCU\":\"Kuando Kubango\",\"CNO\":\"Kwanza-Norte\",\"CUS\":\"Kwanza-Sul\",\"LUA\":\"Luanda\",\"LNO\":\"Lunda-Norte\",\"LSU\":\"Lunda-Sul\",\"MAL\":\"Malanje\",\"MOX\":\"Moxico\",\"NAM\":\"Namibe\",\"UIG\":\"U\\u00edge\",\"ZAI\":\"Zaire\"},\"AR\":{\"C\":\"Ciudad Aut\u00f3noma de Buenos Aires\",\"B\":\"Buenos Aires\",\"K\":\"Catamarca\",\"H\":\"Chaco\",\"U\":\"Chubut\",\"X\":\"C\u00f3rdoba\",\"W\":\"Corrientes\",\"E\":\"Entre R\u00edos\",\"P\":\"Formosa\",\"Y\":\"Jujuy\",\"L\":\"La Pampa\",\"F\":\"La Rioja\",\"M\":\"Mendoza\",\"N\":\"Misiones\",\"Q\":\"Neuqu\u00e9n\",\"R\":\"R\u00edo Negro\",\"A\":\"Salta\",\"J\":\"San Juan\",\"D\":\"San Luis\",\"Z\":\"Santa Cruz\",\"S\":\"Santa Fe\",\"G\":\"Santiago del Estero\",\"V\":\"Tierra del Fuego\",\"T\":\"Tucum\u00e1n\"},\"AT\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"AX\":[],\"BD\":{\"BD-05\":\"Bagerhat\",\"BD-01\":\"Bandarban\",\"BD-02\":\"Barguna\",\"BD-06\":\"Barishal\",\"BD-07\":\"Bhola\",\"BD-03\":\"Bogura\",\"BD-04\":\"Brahmanbaria\",\"BD-09\":\"Chandpur\",\"BD-10\":\"Chattogram\",\"BD-12\":\"Chuadanga\",\"BD-11\":\"Cox's Bazar\",\"BD-08\":\"Cumilla\",\"BD-13\":\"Dhaka\",\"BD-14\":\"Dinajpur\",\"BD-15\":\"Faridpur \",\"BD-16\":\"Feni\",\"BD-19\":\"Gaibandha\",\"BD-18\":\"Gazipur\",\"BD-17\":\"Gopalganj\",\"BD-20\":\"Habiganj\",\"BD-21\":\"Jamalpur\",\"BD-22\":\"Jashore\",\"BD-25\":\"Jhalokati\",\"BD-23\":\"Jhenaidah\",\"BD-24\":\"Joypurhat\",\"BD-29\":\"Khagrachhari\",\"BD-27\":\"Khulna\",\"BD-26\":\"Kishoreganj\",\"BD-28\":\"Kurigram\",\"BD-30\":\"Kushtia\",\"BD-31\":\"Lakshmipur\",\"BD-32\":\"Lalmonirhat\",\"BD-36\":\"Madaripur\",\"BD-37\":\"Magura\",\"BD-33\":\"Manikganj \",\"BD-39\":\"Meherpur\",\"BD-38\":\"Moulvibazar\",\"BD-35\":\"Munshiganj\",\"BD-34\":\"Mymensingh\",\"BD-48\":\"Naogaon\",\"BD-43\":\"Narail\",\"BD-40\":\"Narayanganj\",\"BD-42\":\"Narsingdi\",\"BD-44\":\"Natore\",\"BD-45\":\"Nawabganj\",\"BD-41\":\"Netrakona\",\"BD-46\":\"Nilphamari\",\"BD-47\":\"Noakhali\",\"BD-49\":\"Pabna\",\"BD-52\":\"Panchagarh\",\"BD-51\":\"Patuakhali\",\"BD-50\":\"Pirojpur\",\"BD-53\":\"Rajbari\",\"BD-54\":\"Rajshahi\",\"BD-56\":\"Rangamati\",\"BD-55\":\"Rangpur\",\"BD-58\":\"Satkhira\",\"BD-62\":\"Shariatpur\",\"BD-57\":\"Sherpur\",\"BD-59\":\"Sirajganj\",\"BD-61\":\"Sunamganj\",\"BD-60\":\"Sylhet\",\"BD-63\":\"Tangail\",\"BD-64\":\"Thakurgaon\"},\"BE\":[],\"BG\":{\"BG-01\":\"Blagoevgrad\",\"BG-02\":\"Burgas\",\"BG-08\":\"Dobrich\",\"BG-07\":\"Gabrovo\",\"BG-26\":\"Haskovo\",\"BG-09\":\"Kardzhali\",\"BG-10\":\"Kyustendil\",\"BG-11\":\"Lovech\",\"BG-12\":\"Montana\",\"BG-13\":\"Pazardzhik\",\"BG-14\":\"Pernik\",\"BG-15\":\"Pleven\",\"BG-16\":\"Plovdiv\",\"BG-17\":\"Razgrad\",\"BG-18\":\"Ruse\",\"BG-27\":\"Shumen\",\"BG-19\":\"Silistra\",\"BG-20\":\"Sliven\",\"BG-21\":\"Smolyan\",\"BG-23\":\"Sofia\",\"BG-22\":\"Sofia-Grad\",\"BG-24\":\"Stara Zagora\",\"BG-25\":\"Targovishte\",\"BG-03\":\"Varna\",\"BG-04\":\"Veliko Tarnovo\",\"BG-05\":\"Vidin\",\"BG-06\":\"Vratsa\",\"BG-28\":\"Yambol\"},\"BH\":[],\"BI\":[],\"BO\":{\"B\":\"Chuquisaca\",\"H\":\"Beni\",\"C\":\"Cochabamba\",\"L\":\"La Paz\",\"O\":\"Oruro\",\"N\":\"Pando\",\"P\":\"Potos\\u00ed\",\"S\":\"Santa Cruz\",\"T\":\"Tarija\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland and Labrador\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CH\":{\"AG\":\"Aargau\",\"AR\":\"Appenzell Ausserrhoden\",\"AI\":\"Appenzell Innerrhoden\",\"BL\":\"Basel-Landschaft\",\"BS\":\"Basel-Stadt\",\"BE\":\"Bern\",\"FR\":\"Fribourg\",\"GE\":\"Geneva\",\"GL\":\"Glarus\",\"GR\":\"Graub\u00fcnden\",\"JU\":\"Jura\",\"LU\":\"Luzern\",\"NE\":\"Neuch\u00e2tel\",\"NW\":\"Nidwalden\",\"OW\":\"Obwalden\",\"SH\":\"Schaffhausen\",\"SZ\":\"Schwyz\",\"SO\":\"Solothurn\",\"SG\":\"St. Gallen\",\"TG\":\"Thurgau\",\"TI\":\"Ticino\",\"UR\":\"Uri\",\"VS\":\"Valais\",\"VD\":\"Vaud\",\"ZG\":\"Zug\",\"ZH\":\"Z\u00fcrich\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"CZ\":[],\"DE\":[],\"DK\":[],\"EE\":[],\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"Araba\\\/\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Gipuzkoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Bizkaia\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"FI\":[],\"FR\":[],\"GP\":[],\"GR\":{\"I\":\"\\u0391\\u03c4\\u03c4\\u03b9\\u03ba\\u03ae\",\"A\":\"\\u0391\\u03bd\\u03b1\\u03c4\\u03bf\\u03bb\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1 \\u03ba\\u03b1\\u03b9 \\u0398\\u03c1\\u03ac\\u03ba\\u03b7\",\"B\":\"\\u039a\\u03b5\\u03bd\\u03c4\\u03c1\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"C\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"D\":\"\\u0389\\u03c0\\u03b5\\u03b9\\u03c1\\u03bf\\u03c2\",\"E\":\"\\u0398\\u03b5\\u03c3\\u03c3\\u03b1\\u03bb\\u03af\\u03b1\",\"F\":\"\\u0399\\u03cc\\u03bd\\u03b9\\u03bf\\u03b9 \\u039d\\u03ae\\u03c3\\u03bf\\u03b9\",\"G\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"H\":\"\\u03a3\\u03c4\\u03b5\\u03c1\\u03b5\\u03ac \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"J\":\"\\u03a0\\u03b5\\u03bb\\u03bf\\u03c0\\u03cc\\u03bd\\u03bd\\u03b7\\u03c3\\u03bf\\u03c2\",\"K\":\"\\u0392\\u03cc\\u03c1\\u03b5\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"L\":\"\\u039d\\u03cc\\u03c4\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"M\":\"\\u039a\\u03c1\\u03ae\\u03c4\\u03b7\"},\"GF\":[],\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"HU\":{\"BK\":\"B\\u00e1cs-Kiskun\",\"BE\":\"B\\u00e9k\\u00e9s\",\"BA\":\"Baranya\",\"BZ\":\"Borsod-Aba\\u00faj-Zempl\\u00e9n\",\"BU\":\"Budapest\",\"CS\":\"Csongr\\u00e1d\",\"FE\":\"Fej\\u00e9r\",\"GS\":\"Gy\\u0151r-Moson-Sopron\",\"HB\":\"Hajd\\u00fa-Bihar\",\"HE\":\"Heves\",\"JN\":\"J\\u00e1sz-Nagykun-Szolnok\",\"KE\":\"Kom\\u00e1rom-Esztergom\",\"NO\":\"N\\u00f3gr\\u00e1d\",\"PE\":\"Pest\",\"SO\":\"Somogy\",\"SZ\":\"Szabolcs-Szatm\\u00e1r-Bereg\",\"TO\":\"Tolna\",\"VA\":\"Vas\",\"VE\":\"Veszpr\\u00e9m\",\"ZA\":\"Zala\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"IE\":{\"CW\":\"Carlow\",\"CN\":\"Cavan\",\"CE\":\"Clare\",\"CO\":\"Cork\",\"DL\":\"Donegal\",\"D\":\"Dublin\",\"G\":\"Galway\",\"KY\":\"Kerry\",\"KE\":\"Kildare\",\"KK\":\"Kilkenny\",\"LS\":\"Laois\",\"LM\":\"Leitrim\",\"LK\":\"Limerick\",\"LD\":\"Longford\",\"LH\":\"Louth\",\"MO\":\"Mayo\",\"MH\":\"Meath\",\"MN\":\"Monaghan\",\"OY\":\"Offaly\",\"RN\":\"Roscommon\",\"SO\":\"Sligo\",\"TA\":\"Tipperary\",\"WD\":\"Waterford\",\"WH\":\"Westmeath\",\"WX\":\"Wexford\",\"WW\":\"Wicklow\"},\"IN\":{\"AP\":\"Andhra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"Telangana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadra and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"IR\":{\"KHZ\":\"Khuzestan  (\\u062e\\u0648\\u0632\\u0633\\u062a\\u0627\\u0646)\",\"THR\":\"Tehran  (\\u062a\\u0647\\u0631\\u0627\\u0646)\",\"ILM\":\"Ilaam (\\u0627\\u06cc\\u0644\\u0627\\u0645)\",\"BHR\":\"Bushehr (\\u0628\\u0648\\u0634\\u0647\\u0631)\",\"ADL\":\"Ardabil (\\u0627\\u0631\\u062f\\u0628\\u06cc\\u0644)\",\"ESF\":\"Isfahan (\\u0627\\u0635\\u0641\\u0647\\u0627\\u0646)\",\"YZD\":\"Yazd (\\u06cc\\u0632\\u062f)\",\"KRH\":\"Kermanshah (\\u06a9\\u0631\\u0645\\u0627\\u0646\\u0634\\u0627\\u0647)\",\"KRN\":\"Kerman (\\u06a9\\u0631\\u0645\\u0627\\u0646)\",\"HDN\":\"Hamadan (\\u0647\\u0645\\u062f\\u0627\\u0646)\",\"GZN\":\"Ghazvin (\\u0642\\u0632\\u0648\\u06cc\\u0646)\",\"ZJN\":\"Zanjan (\\u0632\\u0646\\u062c\\u0627\\u0646)\",\"LRS\":\"Luristan (\\u0644\\u0631\\u0633\\u062a\\u0627\\u0646)\",\"ABZ\":\"Alborz (\\u0627\\u0644\\u0628\\u0631\\u0632)\",\"EAZ\":\"East Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u0634\\u0631\\u0642\\u06cc)\",\"WAZ\":\"West Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u063a\\u0631\\u0628\\u06cc)\",\"CHB\":\"Chaharmahal and Bakhtiari (\\u0686\\u0647\\u0627\\u0631\\u0645\\u062d\\u0627\\u0644 \\u0648 \\u0628\\u062e\\u062a\\u06cc\\u0627\\u0631\\u06cc)\",\"SKH\":\"South Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"RKH\":\"Razavi Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0631\\u0636\\u0648\\u06cc)\",\"NKH\":\"North Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0634\\u0645\\u0627\\u0644\\u06cc)\",\"SMN\":\"Semnan (\\u0633\\u0645\\u0646\\u0627\\u0646)\",\"FRS\":\"Fars (\\u0641\\u0627\\u0631\\u0633)\",\"QHM\":\"Qom (\\u0642\\u0645)\",\"KRD\":\"Kurdistan \\\/ \\u06a9\\u0631\\u062f\\u0633\\u062a\\u0627\\u0646)\",\"KBD\":\"Kohgiluyeh and BoyerAhmad (\\u06a9\\u0647\\u06af\\u06cc\\u0644\\u0648\\u06cc\\u06cc\\u0647 \\u0648 \\u0628\\u0648\\u06cc\\u0631\\u0627\\u062d\\u0645\\u062f)\",\"GLS\":\"Golestan (\\u06af\\u0644\\u0633\\u062a\\u0627\\u0646)\",\"GIL\":\"Gilan (\\u06af\\u06cc\\u0644\\u0627\\u0646)\",\"MZN\":\"Mazandaran (\\u0645\\u0627\\u0632\\u0646\\u062f\\u0631\\u0627\\u0646)\",\"MKZ\":\"Markazi (\\u0645\\u0631\\u06a9\\u0632\\u06cc)\",\"HRZ\":\"Hormozgan (\\u0647\\u0631\\u0645\\u0632\\u06af\\u0627\\u0646)\",\"SBN\":\"Sistan and Baluchestan (\\u0633\\u06cc\\u0633\\u062a\\u0627\\u0646 \\u0648 \\u0628\\u0644\\u0648\\u0686\\u0633\\u062a\\u0627\\u0646)\"},\"IS\":[],\"IT\":{\"AG\":\"Agrigento\",\"AL\":\"Alessandria\",\"AN\":\"Ancona\",\"AO\":\"Aosta\",\"AR\":\"Arezzo\",\"AP\":\"Ascoli Piceno\",\"AT\":\"Asti\",\"AV\":\"Avellino\",\"BA\":\"Bari\",\"BT\":\"Barletta-Andria-Trani\",\"BL\":\"Belluno\",\"BN\":\"Benevento\",\"BG\":\"Bergamo\",\"BI\":\"Biella\",\"BO\":\"Bologna\",\"BZ\":\"Bolzano\",\"BS\":\"Brescia\",\"BR\":\"Brindisi\",\"CA\":\"Cagliari\",\"CL\":\"Caltanissetta\",\"CB\":\"Campobasso\",\"CE\":\"Caserta\",\"CT\":\"Catania\",\"CZ\":\"Catanzaro\",\"CH\":\"Chieti\",\"CO\":\"Como\",\"CS\":\"Cosenza\",\"CR\":\"Cremona\",\"KR\":\"Crotone\",\"CN\":\"Cuneo\",\"EN\":\"Enna\",\"FM\":\"Fermo\",\"FE\":\"Ferrara\",\"FI\":\"Firenze\",\"FG\":\"Foggia\",\"FC\":\"Forl\\u00ec-Cesena\",\"FR\":\"Frosinone\",\"GE\":\"Genova\",\"GO\":\"Gorizia\",\"GR\":\"Grosseto\",\"IM\":\"Imperia\",\"IS\":\"Isernia\",\"SP\":\"La Spezia\",\"AQ\":\"L'Aquila\",\"LT\":\"Latina\",\"LE\":\"Lecce\",\"LC\":\"Lecco\",\"LI\":\"Livorno\",\"LO\":\"Lodi\",\"LU\":\"Lucca\",\"MC\":\"Macerata\",\"MN\":\"Mantova\",\"MS\":\"Massa-Carrara\",\"MT\":\"Matera\",\"ME\":\"Messina\",\"MI\":\"Milano\",\"MO\":\"Modena\",\"MB\":\"Monza e della Brianza\",\"NA\":\"Napoli\",\"NO\":\"Novara\",\"NU\":\"Nuoro\",\"OR\":\"Oristano\",\"PD\":\"Padova\",\"PA\":\"Palermo\",\"PR\":\"Parma\",\"PV\":\"Pavia\",\"PG\":\"Perugia\",\"PU\":\"Pesaro e Urbino\",\"PE\":\"Pescara\",\"PC\":\"Piacenza\",\"PI\":\"Pisa\",\"PT\":\"Pistoia\",\"PN\":\"Pordenone\",\"PZ\":\"Potenza\",\"PO\":\"Prato\",\"RG\":\"Ragusa\",\"RA\":\"Ravenna\",\"RC\":\"Reggio Calabria\",\"RE\":\"Reggio Emilia\",\"RI\":\"Rieti\",\"RN\":\"Rimini\",\"RM\":\"Roma\",\"RO\":\"Rovigo\",\"SA\":\"Salerno\",\"SS\":\"Sassari\",\"SV\":\"Savona\",\"SI\":\"Siena\",\"SR\":\"Siracusa\",\"SO\":\"Sondrio\",\"SU\":\"Sud Sardegna\",\"TA\":\"Taranto\",\"TE\":\"Teramo\",\"TR\":\"Terni\",\"TO\":\"Torino\",\"TP\":\"Trapani\",\"TN\":\"Trento\",\"TV\":\"Treviso\",\"TS\":\"Trieste\",\"UD\":\"Udine\",\"VA\":\"Varese\",\"VE\":\"Venezia\",\"VB\":\"Verbano-Cusio-Ossola\",\"VC\":\"Vercelli\",\"VR\":\"Verona\",\"VV\":\"Vibo Valentia\",\"VI\":\"Vicenza\",\"VT\":\"Viterbo\"},\"IL\":[],\"IM\":[],\"JP\":{\"JP01\":\"Hokkaido\",\"JP02\":\"Aomori\",\"JP03\":\"Iwate\",\"JP04\":\"Miyagi\",\"JP05\":\"Akita\",\"JP06\":\"Yamagata\",\"JP07\":\"Fukushima\",\"JP08\":\"Ibaraki\",\"JP09\":\"Tochigi\",\"JP10\":\"Gunma\",\"JP11\":\"Saitama\",\"JP12\":\"Chiba\",\"JP13\":\"Tokyo\",\"JP14\":\"Kanagawa\",\"JP15\":\"Niigata\",\"JP16\":\"Toyama\",\"JP17\":\"Ishikawa\",\"JP18\":\"Fukui\",\"JP19\":\"Yamanashi\",\"JP20\":\"Nagano\",\"JP21\":\"Gifu\",\"JP22\":\"Shizuoka\",\"JP23\":\"Aichi\",\"JP24\":\"Mie\",\"JP25\":\"Shiga\",\"JP26\":\"Kyoto\",\"JP27\":\"Osaka\",\"JP28\":\"Hyogo\",\"JP29\":\"Nara\",\"JP30\":\"Wakayama\",\"JP31\":\"Tottori\",\"JP32\":\"Shimane\",\"JP33\":\"Okayama\",\"JP34\":\"Hiroshima\",\"JP35\":\"Yamaguchi\",\"JP36\":\"Tokushima\",\"JP37\":\"Kagawa\",\"JP38\":\"Ehime\",\"JP39\":\"Kochi\",\"JP40\":\"Fukuoka\",\"JP41\":\"Saga\",\"JP42\":\"Nagasaki\",\"JP43\":\"Kumamoto\",\"JP44\":\"Oita\",\"JP45\":\"Miyazaki\",\"JP46\":\"Kagoshima\",\"JP47\":\"Okinawa\"},\"KR\":[],\"KW\":[],\"LB\":[],\"LR\":{\"BM\":\"Bomi\",\"BN\":\"Bong\",\"GA\":\"Gbarpolu\",\"GB\":\"Grand Bassa\",\"GC\":\"Grand Cape Mount\",\"GG\":\"Grand Gedeh\",\"GK\":\"Grand Kru\",\"LO\":\"Lofa\",\"MA\":\"Margibi\",\"MY\":\"Maryland\",\"MO\":\"Montserrado\",\"NM\":\"Nimba\",\"RV\":\"Rivercess\",\"RG\":\"River Gee\",\"SN\":\"Sinoe\"},\"LU\":[],\"MD\":{\"C\":\"Chi\u0219in\u0103u\",\"BL\":\"B\u0103l\u021bi\",\"AN\":\"Anenii Noi\",\"BS\":\"Basarabeasca\",\"BR\":\"Briceni\",\"CH\":\"Cahul\",\"CT\":\"Cantemir\",\"CL\":\"C\u0103l\u0103ra\u0219i\",\"CS\":\"C\u0103u\u0219eni\",\"CM\":\"Cimi\u0219lia\",\"CR\":\"Criuleni\",\"DN\":\"Dondu\u0219eni\",\"DR\":\"Drochia\",\"DB\":\"Dub\u0103sari\",\"ED\":\"Edine\u021b\",\"FL\":\"F\u0103le\u0219ti\",\"FR\":\"Flore\u0219ti\",\"GE\":\"UTA G\u0103g\u0103uzia\",\"GL\":\"Glodeni\",\"HN\":\"H\u00eence\u0219ti\",\"IL\":\"Ialoveni\",\"LV\":\"Leova\",\"NS\":\"Nisporeni\",\"OC\":\"Ocni\u021ba\",\"OR\":\"Orhei\",\"RZ\":\"Rezina\",\"RS\":\"R\u00ee\u0219cani\",\"SG\":\"S\u00eengerei\",\"SR\":\"Soroca\",\"ST\":\"Str\u0103\u0219eni\",\"SD\":\"\u0218old\u0103ne\u0219ti\",\"SV\":\"\u0218tefan Vod\u0103\",\"TR\":\"Taraclia\",\"TL\":\"Telene\u0219ti\",\"UN\":\"Ungheni\"},\"MQ\":[],\"MT\":[],\"MX\":{\"DF\":\"Ciudad de M\u00e9xico\",\"JA\":\"Jalisco\",\"NL\":\"Nuevo Le\u00f3n\",\"AG\":\"Aguascalientes\",\"BC\":\"Baja California\",\"BS\":\"Baja California Sur\",\"CM\":\"Campeche\",\"CS\":\"Chiapas\",\"CH\":\"Chihuahua\",\"CO\":\"Coahuila\",\"CL\":\"Colima\",\"DG\":\"Durango\",\"GT\":\"Guanajuato\",\"GR\":\"Guerrero\",\"HG\":\"Hidalgo\",\"MX\":\"Estado de M\u00e9xico\",\"MI\":\"Michoac\u00e1n\",\"MO\":\"Morelos\",\"NA\":\"Nayarit\",\"OA\":\"Oaxaca\",\"PU\":\"Puebla\",\"QT\":\"Quer\u00e9taro\",\"QR\":\"Quintana Roo\",\"SL\":\"San Luis Potos\u00ed\",\"SI\":\"Sinaloa\",\"SO\":\"Sonora\",\"TB\":\"Tabasco\",\"TM\":\"Tamaulipas\",\"TL\":\"Tlaxcala\",\"VE\":\"Veracruz\",\"YU\":\"Yucat\u00e1n\",\"ZA\":\"Zacatecas\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"LBN\":\"Labuan\",\"MLK\":\"Malacca (Melaka)\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PNG\":\"Penang (Pulau Pinang)\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"PJY\":\"Putrajaya\",\"KUL\":\"Kuala Lumpur\"},\"NG\":{\"AB\":\"Abia\",\"FC\":\"Abuja\",\"AD\":\"Adamawa\",\"AK\":\"Akwa Ibom\",\"AN\":\"Anambra\",\"BA\":\"Bauchi\",\"BY\":\"Bayelsa\",\"BE\":\"Benue\",\"BO\":\"Borno\",\"CR\":\"Cross River\",\"DE\":\"Delta\",\"EB\":\"Ebonyi\",\"ED\":\"Edo\",\"EK\":\"Ekiti\",\"EN\":\"Enugu\",\"GO\":\"Gombe\",\"IM\":\"Imo\",\"JI\":\"Jigawa\",\"KD\":\"Kaduna\",\"KN\":\"Kano\",\"KT\":\"Katsina\",\"KE\":\"Kebbi\",\"KO\":\"Kogi\",\"KW\":\"Kwara\",\"LA\":\"Lagos\",\"NA\":\"Nasarawa\",\"NI\":\"Niger\",\"OG\":\"Ogun\",\"ON\":\"Ondo\",\"OS\":\"Osun\",\"OY\":\"Oyo\",\"PL\":\"Plateau\",\"RI\":\"Rivers\",\"SO\":\"Sokoto\",\"TA\":\"Taraba\",\"YO\":\"Yobe\",\"ZA\":\"Zamfara\"},\"NL\":[],\"NO\":[],\"NP\":{\"BAG\":\"Bagmati\",\"BHE\":\"Bheri\",\"DHA\":\"Dhaulagiri\",\"GAN\":\"Gandaki\",\"JAN\":\"Janakpur\",\"KAR\":\"Karnali\",\"KOS\":\"Koshi\",\"LUM\":\"Lumbini\",\"MAH\":\"Mahakali\",\"MEC\":\"Mechi\",\"NAR\":\"Narayani\",\"RAP\":\"Rapti\",\"SAG\":\"Sagarmatha\",\"SET\":\"Seti\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"GI\":\"Gisborne\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"PE\":{\"CAL\":\"El Callao\",\"LMA\":\"Municipalidad Metropolitana de Lima\",\"AMA\":\"Amazonas\",\"ANC\":\"Ancash\",\"APU\":\"Apur\u00edmac\",\"ARE\":\"Arequipa\",\"AYA\":\"Ayacucho\",\"CAJ\":\"Cajamarca\",\"CUS\":\"Cusco\",\"HUV\":\"Huancavelica\",\"HUC\":\"Hu\u00e1nuco\",\"ICA\":\"Ica\",\"JUN\":\"Jun\u00edn\",\"LAL\":\"La Libertad\",\"LAM\":\"Lambayeque\",\"LIM\":\"Lima\",\"LOR\":\"Loreto\",\"MDD\":\"Madre de Dios\",\"MOQ\":\"Moquegua\",\"PAS\":\"Pasco\",\"PIU\":\"Piura\",\"PUN\":\"Puno\",\"SAM\":\"San Mart\u00edn\",\"TAC\":\"Tacna\",\"TUM\":\"Tumbes\",\"UCA\":\"Ucayali\"},\"PH\":{\"ABR\":\"Abra\",\"AGN\":\"Agusan del Norte\",\"AGS\":\"Agusan del Sur\",\"AKL\":\"Aklan\",\"ALB\":\"Albay\",\"ANT\":\"Antique\",\"APA\":\"Apayao\",\"AUR\":\"Aurora\",\"BAS\":\"Basilan\",\"BAN\":\"Bataan\",\"BTN\":\"Batanes\",\"BTG\":\"Batangas\",\"BEN\":\"Benguet\",\"BIL\":\"Biliran\",\"BOH\":\"Bohol\",\"BUK\":\"Bukidnon\",\"BUL\":\"Bulacan\",\"CAG\":\"Cagayan\",\"CAN\":\"Camarines Norte\",\"CAS\":\"Camarines Sur\",\"CAM\":\"Camiguin\",\"CAP\":\"Capiz\",\"CAT\":\"Catanduanes\",\"CAV\":\"Cavite\",\"CEB\":\"Cebu\",\"COM\":\"Compostela Valley\",\"NCO\":\"Cotabato\",\"DAV\":\"Davao del Norte\",\"DAS\":\"Davao del Sur\",\"DAC\":\"Davao Occidental\",\"DAO\":\"Davao Oriental\",\"DIN\":\"Dinagat Islands\",\"EAS\":\"Eastern Samar\",\"GUI\":\"Guimaras\",\"IFU\":\"Ifugao\",\"ILN\":\"Ilocos Norte\",\"ILS\":\"Ilocos Sur\",\"ILI\":\"Iloilo\",\"ISA\":\"Isabela\",\"KAL\":\"Kalinga\",\"LUN\":\"La Union\",\"LAG\":\"Laguna\",\"LAN\":\"Lanao del Norte\",\"LAS\":\"Lanao del Sur\",\"LEY\":\"Leyte\",\"MAG\":\"Maguindanao\",\"MAD\":\"Marinduque\",\"MAS\":\"Masbate\",\"MSC\":\"Misamis Occidental\",\"MSR\":\"Misamis Oriental\",\"MOU\":\"Mountain Province\",\"NEC\":\"Negros Occidental\",\"NER\":\"Negros Oriental\",\"NSA\":\"Northern Samar\",\"NUE\":\"Nueva Ecija\",\"NUV\":\"Nueva Vizcaya\",\"MDC\":\"Occidental Mindoro\",\"MDR\":\"Oriental Mindoro\",\"PLW\":\"Palawan\",\"PAM\":\"Pampanga\",\"PAN\":\"Pangasinan\",\"QUE\":\"Quezon\",\"QUI\":\"Quirino\",\"RIZ\":\"Rizal\",\"ROM\":\"Romblon\",\"WSA\":\"Samar\",\"SAR\":\"Sarangani\",\"SIQ\":\"Siquijor\",\"SOR\":\"Sorsogon\",\"SCO\":\"South Cotabato\",\"SLE\":\"Southern Leyte\",\"SUK\":\"Sultan Kudarat\",\"SLU\":\"Sulu\",\"SUN\":\"Surigao del Norte\",\"SUR\":\"Surigao del Sur\",\"TAR\":\"Tarlac\",\"TAW\":\"Tawi-Tawi\",\"ZMB\":\"Zambales\",\"ZAN\":\"Zamboanga del Norte\",\"ZAS\":\"Zamboanga del Sur\",\"ZSI\":\"Zamboanga Sibugay\",\"00\":\"Metro Manila\"},\"PK\":{\"JK\":\"Azad Kashmir\",\"BA\":\"Balochistan\",\"TA\":\"FATA\",\"GB\":\"Gilgit Baltistan\",\"IS\":\"Islamabad Capital Territory\",\"KP\":\"Khyber Pakhtunkhwa\",\"PB\":\"Punjab\",\"SD\":\"Sindh\"},\"PL\":[],\"PT\":[],\"PY\":{\"PY-ASU\":\"Asunci\u00f3n\",\"PY-1\":\"Concepci\u00f3n\",\"PY-2\":\"San Pedro\",\"PY-3\":\"Cordillera\",\"PY-4\":\"Guair\u00e1\",\"PY-5\":\"Caaguaz\u00fa\",\"PY-6\":\"Caazap\u00e1\",\"PY-7\":\"Itap\u00faa\",\"PY-8\":\"Misiones\",\"PY-9\":\"Paraguar\u00ed\",\"PY-10\":\"Alto Paran\u00e1\",\"PY-11\":\"Central\",\"PY-12\":\"\u00d1eembuc\u00fa\",\"PY-13\":\"Amambay\",\"PY-14\":\"Canindey\u00fa\",\"PY-15\":\"Presidente Hayes\",\"PY-16\":\"Alto Paraguay\",\"PY-17\":\"Boquer\u00f3n\"},\"RE\":[],\"RO\":{\"AB\":\"Alba\",\"AR\":\"Arad\",\"AG\":\"Arge\u0219\",\"BC\":\"Bac\u0103u\",\"BH\":\"Bihor\",\"BN\":\"Bistri\u021ba-N\u0103s\u0103ud\",\"BT\":\"Boto\u0219ani\",\"BR\":\"Br\u0103ila\",\"BV\":\"Bra\u0219ov\",\"B\":\"Bucure\u0219ti\",\"BZ\":\"Buz\u0103u\",\"CL\":\"C\u0103l\u0103ra\u0219i\",\"CS\":\"Cara\u0219-Severin\",\"CJ\":\"Cluj\",\"CT\":\"Constan\u021ba\",\"CV\":\"Covasna\",\"DB\":\"D\u00e2mbovi\u021ba\",\"DJ\":\"Dolj\",\"GL\":\"Gala\u021bi\",\"GR\":\"Giurgiu\",\"GJ\":\"Gorj\",\"HR\":\"Harghita\",\"HD\":\"Hunedoara\",\"IL\":\"Ialomi\u021ba\",\"IS\":\"Ia\u0219i\",\"IF\":\"Ilfov\",\"MM\":\"Maramure\u0219\",\"MH\":\"Mehedin\u021bi\",\"MS\":\"Mure\u0219\",\"NT\":\"Neam\u021b\",\"OT\":\"Olt\",\"PH\":\"Prahova\",\"SJ\":\"S\u0103laj\",\"SM\":\"Satu Mare\",\"SB\":\"Sibiu\",\"SV\":\"Suceava\",\"TR\":\"Teleorman\",\"TM\":\"Timi\u0219\",\"TL\":\"Tulcea\",\"VL\":\"V\u00e2lcea\",\"VS\":\"Vaslui\",\"VN\":\"Vrancea\"},\"RS\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"TH\":{\"TH-37\":\"Amnat Charoen\",\"TH-15\":\"Ang Thong\",\"TH-14\":\"Ayutthaya\",\"TH-10\":\"Bangkok\",\"TH-38\":\"Bueng Kan\",\"TH-31\":\"Buri Ram\",\"TH-24\":\"Chachoengsao\",\"TH-18\":\"Chai Nat\",\"TH-36\":\"Chaiyaphum\",\"TH-22\":\"Chanthaburi\",\"TH-50\":\"Chiang Mai\",\"TH-57\":\"Chiang Rai\",\"TH-20\":\"Chonburi\",\"TH-86\":\"Chumphon\",\"TH-46\":\"Kalasin\",\"TH-62\":\"Kamphaeng Phet\",\"TH-71\":\"Kanchanaburi\",\"TH-40\":\"Khon Kaen\",\"TH-81\":\"Krabi\",\"TH-52\":\"Lampang\",\"TH-51\":\"Lamphun\",\"TH-42\":\"Loei\",\"TH-16\":\"Lopburi\",\"TH-58\":\"Mae Hong Son\",\"TH-44\":\"Maha Sarakham\",\"TH-49\":\"Mukdahan\",\"TH-26\":\"Nakhon Nayok\",\"TH-73\":\"Nakhon Pathom\",\"TH-48\":\"Nakhon Phanom\",\"TH-30\":\"Nakhon Ratchasima\",\"TH-60\":\"Nakhon Sawan\",\"TH-80\":\"Nakhon Si Thammarat\",\"TH-55\":\"Nan\",\"TH-96\":\"Narathiwat\",\"TH-39\":\"Nong Bua Lam Phu\",\"TH-43\":\"Nong Khai\",\"TH-12\":\"Nonthaburi\",\"TH-13\":\"Pathum Thani\",\"TH-94\":\"Pattani\",\"TH-82\":\"Phang Nga\",\"TH-93\":\"Phatthalung\",\"TH-56\":\"Phayao\",\"TH-67\":\"Phetchabun\",\"TH-76\":\"Phetchaburi\",\"TH-66\":\"Phichit\",\"TH-65\":\"Phitsanulok\",\"TH-54\":\"Phrae\",\"TH-83\":\"Phuket\",\"TH-25\":\"Prachin Buri\",\"TH-77\":\"Prachuap Khiri Khan\",\"TH-85\":\"Ranong\",\"TH-70\":\"Ratchaburi\",\"TH-21\":\"Rayong\",\"TH-45\":\"Roi Et\",\"TH-27\":\"Sa Kaeo\",\"TH-47\":\"Sakon Nakhon\",\"TH-11\":\"Samut Prakan\",\"TH-74\":\"Samut Sakhon\",\"TH-75\":\"Samut Songkhram\",\"TH-19\":\"Saraburi\",\"TH-91\":\"Satun\",\"TH-17\":\"Sing Buri\",\"TH-33\":\"Sisaket\",\"TH-90\":\"Songkhla\",\"TH-64\":\"Sukhothai\",\"TH-72\":\"Suphan Buri\",\"TH-84\":\"Surat Thani\",\"TH-32\":\"Surin\",\"TH-63\":\"Tak\",\"TH-92\":\"Trang\",\"TH-23\":\"Trat\",\"TH-34\":\"Ubon Ratchathani\",\"TH-41\":\"Udon Thani\",\"TH-61\":\"Uthai Thani\",\"TH-53\":\"Uttaradit\",\"TH-95\":\"Yala\",\"TH-35\":\"Yasothon\"},\"TR\":{\"TR01\":\"Adana\",\"TR02\":\"Ad\u0131yaman\",\"TR03\":\"Afyon\",\"TR04\":\"A\u011fr\u0131\",\"TR05\":\"Amasya\",\"TR06\":\"Ankara\",\"TR07\":\"Antalya\",\"TR08\":\"Artvin\",\"TR09\":\"Ayd\u0131n\",\"TR10\":\"Bal\u0131kesir\",\"TR11\":\"Bilecik\",\"TR12\":\"Bing\u00f6l\",\"TR13\":\"Bitlis\",\"TR14\":\"Bolu\",\"TR15\":\"Burdur\",\"TR16\":\"Bursa\",\"TR17\":\"\u00c7anakkale\",\"TR18\":\"\u00c7ank\u0131r\u0131\",\"TR19\":\"\u00c7orum\",\"TR20\":\"Denizli\",\"TR21\":\"Diyarbak\u0131r\",\"TR22\":\"Edirne\",\"TR23\":\"Elaz\u0131\u011f\",\"TR24\":\"Erzincan\",\"TR25\":\"Erzurum\",\"TR26\":\"Eski\u015fehir\",\"TR27\":\"Gaziantep\",\"TR28\":\"Giresun\",\"TR29\":\"G\u00fcm\u00fc\u015fhane\",\"TR30\":\"Hakkari\",\"TR31\":\"Hatay\",\"TR32\":\"Isparta\",\"TR33\":\"\u0130\u00e7el\",\"TR34\":\"\u0130stanbul\",\"TR35\":\"\u0130zmir\",\"TR36\":\"Kars\",\"TR37\":\"Kastamonu\",\"TR38\":\"Kayseri\",\"TR39\":\"K\u0131rklareli\",\"TR40\":\"K\u0131r\u015fehir\",\"TR41\":\"Kocaeli\",\"TR42\":\"Konya\",\"TR43\":\"K\u00fctahya\",\"TR44\":\"Malatya\",\"TR45\":\"Manisa\",\"TR46\":\"Kahramanmara\u015f\",\"TR47\":\"Mardin\",\"TR48\":\"Mu\u011fla\",\"TR49\":\"Mu\u015f\",\"TR50\":\"Nev\u015fehir\",\"TR51\":\"Ni\u011fde\",\"TR52\":\"Ordu\",\"TR53\":\"Rize\",\"TR54\":\"Sakarya\",\"TR55\":\"Samsun\",\"TR56\":\"Siirt\",\"TR57\":\"Sinop\",\"TR58\":\"Sivas\",\"TR59\":\"Tekirda\u011f\",\"TR60\":\"Tokat\",\"TR61\":\"Trabzon\",\"TR62\":\"Tunceli\",\"TR63\":\"\u015eanl\u0131urfa\",\"TR64\":\"U\u015fak\",\"TR65\":\"Van\",\"TR66\":\"Yozgat\",\"TR67\":\"Zonguldak\",\"TR68\":\"Aksaray\",\"TR69\":\"Bayburt\",\"TR70\":\"Karaman\",\"TR71\":\"K\u0131r\u0131kkale\",\"TR72\":\"Batman\",\"TR73\":\"\u015e\u0131rnak\",\"TR74\":\"Bart\u0131n\",\"TR75\":\"Ardahan\",\"TR76\":\"I\u011fd\u0131r\",\"TR77\":\"Yalova\",\"TR78\":\"Karab\u00fck\",\"TR79\":\"Kilis\",\"TR80\":\"Osmaniye\",\"TR81\":\"D\u00fczce\"},\"TZ\":{\"TZ01\":\"Arusha\",\"TZ02\":\"Dar es Salaam\",\"TZ03\":\"Dodoma\",\"TZ04\":\"Iringa\",\"TZ05\":\"Kagera\",\"TZ06\":\"Pemba North\",\"TZ07\":\"Zanzibar North\",\"TZ08\":\"Kigoma\",\"TZ09\":\"Kilimanjaro\",\"TZ10\":\"Pemba South\",\"TZ11\":\"Zanzibar South\",\"TZ12\":\"Lindi\",\"TZ13\":\"Mara\",\"TZ14\":\"Mbeya\",\"TZ15\":\"Zanzibar West\",\"TZ16\":\"Morogoro\",\"TZ17\":\"Mtwara\",\"TZ18\":\"Mwanza\",\"TZ19\":\"Coast\",\"TZ20\":\"Rukwa\",\"TZ21\":\"Ruvuma\",\"TZ22\":\"Shinyanga\",\"TZ23\":\"Singida\",\"TZ24\":\"Tabora\",\"TZ25\":\"Tanga\",\"TZ26\":\"Manyara\",\"TZ27\":\"Geita\",\"TZ28\":\"Katavi\",\"TZ29\":\"Njombe\",\"TZ30\":\"Simiyu\"},\"LK\":[],\"SE\":[],\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\"},\"VN\":[],\"YT\":[],\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"}}","password_strength":{"min_password_strength":3,"i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"Dica: A senha deve ter pelo menos doze caracteres. Para torn\u00e1-la mais forte, use letras mai\u00fasculas e min\u00fasculas, n\u00fameros e s\u00edmbolos como ! &quot; ? $ % ^ &amp; )."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/js/xoo-aff-js.js?ver=1.1' id='xoo-aff-js-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/library/smooth-scrollbar/smooth-scrollbar.js?ver=2.1' id='smooth-scrollbar-js'></script>
+<script type='text/javascript' id='xoo-el-js-js-extra'>
+/* <![CDATA[ */
+var xoo_el_localize = {"adminurl":"http:\/\/lucasrede.rf.gd\/wp-admin\/admin-ajax.php","redirectDelay":"300","html":{"spinner":"<i class=\"fas fa-circle-notch spinner fa-spin\" aria-hidden=\"true\"><\/i>"},"autoOpenPopup":"no","autoOpenPopupOnce":"no","aoDelay":"500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/easy-login-woocommerce/assets/js/xoo-el-js.js?ver=2.1' id='xoo-el-js-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-woocommerce-payments/dist/widgets.bundle.js?ver=1.15.6' id='DEPAY_WC_WIDGETS-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"http:\/\/lucasrede.rf.gd\/wp-json\/","nonce":"85791cdeca","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-includes/js/api-request.min.js?ver=6.1.1' id='wp-api-request-js'></script>
+<script type='text/javascript' id='DEPAY_WC_CHECKOUT-js-extra'>
+/* <![CDATA[ */
+var DEPAY_WC_CURRENCY = {"displayCurrency":"store","storeCurrency":"BRL"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/depay-woocommerce-payments/dist/checkout.js?ver=1.15.6' id='DEPAY_WC_CHECKOUT-js'></script>
+<script type='text/javascript' src='//lucasrede.rf.gd/wp-content/plugins/breeze/assets/js/js-front-end/breeze-lazy-load.min.js?ver=2.0.17' id='breeze-lazy-js'></script>
+<script type='text/javascript' id='gt_widget_script_62210754-js-before'>
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['62210754'] = {"default_language":"pt","languages":["ar","zh-CN","nl","en","fr","de","it","pt","ru","es"],"url_structure":"none","flag_style":"2d","wrapper_selector":"#gt-wrapper-62210754","alt_flags":{"pt":"brazil"},"float_switcher_open_direction":"top","switcher_horizontal_position":"left","switcher_vertical_position":"bottom","flags_location":"http:\/\/lucasrede.rf.gd\/wp-content\/plugins\/gtranslate\/flags\/"};
+</script><script src="//lucasrede.rf.gd/wp-content/plugins/gtranslate/js/float.js?ver=6.1.1" data-no-minify="1" data-gt-orig-url="/" data-gt-orig-domain="lucasrede.rf.gd" data-gt-widget-id="62210754" defer></script></body>
+</html>
+
+<!-- Cache served by breeze CACHE - Last modified: Sat, 18 Mar 2023 17:25:23 GMT -->
